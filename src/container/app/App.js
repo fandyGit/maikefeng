@@ -15,11 +15,13 @@ class App extends Component {
     return (
       <div className='app'>
         <Button>点我啊</Button>
+       {/* <i className='iconfont icon-saoma'></i>*/}
         <Switch>
           { routes.map(({ id, path, component, render, exact }) => (
             <Route key = {id} exact = {exact} path = {path} component = {component} render = {render} />
           )) }
         </Switch>
+
         <NavFooter routes={routes}></NavFooter>
       </div>
     );
