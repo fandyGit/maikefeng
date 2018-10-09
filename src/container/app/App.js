@@ -8,7 +8,7 @@ import Find from '../find/find'
 import Cart from '../cart/cart'
 import Mine from '../mine/mine'
 import NavFooter from '../../components/navfooter/navfooter'
-import './app.sass'
+import '../../assets/sass/index.sass'
 class App extends Component {
   render() {
     let { routes } = this.props
