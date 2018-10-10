@@ -1,4 +1,7 @@
 import React,{Component} from 'react'
+import { Flex, WhiteSpace ,WingBlank} from 'antd-mobile';
+
+import './nctouch-nav-home.sass'
 
 export default class NctouchNavHome extends Component{
   state={
@@ -32,7 +35,21 @@ export default class NctouchNavHome extends Component{
   }
   render(){
     return (
-      <div></div>
+      <WingBlank className='flex-container'>
+        <WhiteSpace size="lg" />
+        <Flex>
+          {
+            this.state.imgs.map(item=>{
+              return (
+                  <Flex.Item>
+                    <img className='pic' src={item.url} alt={item.title}/>
+                    <i>{item.title}</i>
+                  </Flex.Item>
+              )})
+          }
+        </Flex>
+        <WhiteSpace size="lg" />
+      </WingBlank>
     )
   }
 }
