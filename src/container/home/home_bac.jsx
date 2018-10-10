@@ -5,7 +5,7 @@ import BScroll from 'better-scroll'
 
 import Banner from '../../components/banner/banner'
 import NctouchNavHome from '../../components/nctouch-nav-home/nctouch-nav-home'
-import NctouchNavLayout from '../../components/nctouch-home-layout/nctouch-home-layout'
+import NctouchNavLayout from '../../components/nctouch-home-layout/layoutc/layoutc'
 import './home.sass'
 
 export default class Home extends Component{

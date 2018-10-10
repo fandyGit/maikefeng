@@ -1,9 +1,9 @@
 import React,{Component} from 'react'
 import { Flex, WhiteSpace ,WingBlank} from 'antd-mobile';
 
-import './nctouch-home-layout.sass'
+import './layoutc.sass'
 
-export default class NctouchHomeLayout extends Component{
+export default class Layoutc extends Component{
   render(){
     console.log(this.props.layoutc)
     return (
