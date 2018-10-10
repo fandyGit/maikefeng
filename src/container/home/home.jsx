@@ -3,6 +3,7 @@ import { WingBlank ,WhiteSpace} from 'antd-mobile';
 
 
 import Banner from '../../components/banner/banner'
+import NctouchNavHome from '../../components/nctouch-nav-home/nctouch-nav-home'
 import './home.sass'
 
 export default class Home extends Component{
@@ -23,18 +24,10 @@ export default class Home extends Component{
     })
   }
   render(){
-    let banners=this.state.homeData[0];
-    let banner
-
-    if(banners!==undefined){
-      for(var ban in banners){
-        banner=banners[ban]
-      }
-    }
-    console.log(banner)
+    const {banners}=this.state;
     return (
       <div>
-        <Banner banner={banner}></Banner>
+        <Banner banners={banners}></Banner>
         <WingBlank>
           <div className='item-pic'>
             <a href="http://www.51mkf.com/wap/special_detail.html?special_id=170">
@@ -42,6 +35,7 @@ export default class Home extends Component{
             </a>
           </div>
         </WingBlank>
+        <NctouchNavHome></NctouchNavHome>
 
       </div>
     )

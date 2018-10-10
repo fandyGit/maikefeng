@@ -2,20 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12bfca77-9243-4f3e-9ef0-6fc495a1bc20" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/banner/banner.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/banner/banner.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/navheader/header.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/navheader/images/saoma.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/navheader/navheader.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/container/home/home.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/遇到的问题.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/项目流程.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/迈客风首页数据.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/nctouch-nav-home/nctouch-nav-home.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/assets/sass/index.sass" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/sass/index.sass" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/container/app/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/container/app/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/banner/banner.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/banner/banner.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/banner/banner.sass" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/banner/banner.sass" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/container/home/home.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/container/home/home.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/container/home/home.sass" beforeDir="false" afterPath="$PROJECT_DIR$/src/container/home/home.sass" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -32,32 +26,8 @@
       <file leaf-file-name="App.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/container/app/App.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="338">
-              <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="navheader.jsx" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/navheader/navheader.jsx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="10" column="54" selection-start-line="10" selection-start-column="54" selection-end-line="10" selection-end-column="54" />
-              <folding>
-                <element signature="e#0#37#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="navfooter.jsx" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/navfooter/navfooter.jsx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="468">
-              <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
-              <folding>
-                <element signature="e#0#37#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="286">
+              <caret line="23" column="47" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="47" />
             </state>
           </provider>
         </entry>
@@ -65,47 +35,21 @@
       <file leaf-file-name="home.jsx" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/container/home/home.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="217">
-              <caret line="19" column="51" selection-start-line="19" selection-start-column="51" selection-end-line="19" selection-end-column="51" />
+            <state relative-caret-position="181">
+              <caret line="37" column="24" selection-start-line="37" selection-start-column="24" selection-end-line="37" selection-end-column="24" />
               <folding>
                 <element signature="e#0#37#0" expanded="true" />
+                <element signature="e#710#1006#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="后台文档接口.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/后台文档接口.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="52">
-                <caret line="2" column="61" lean-forward="true" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="61" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="156">
-                <caret line="6" column="8" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="遇到的问题.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/遇到的问题.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="78">
-                <caret line="3" column="55" selection-start-line="3" selection-start-column="55" selection-end-line="3" selection-end-column="55" />
-              </first_editor>
-              <second_editor />
+      <file leaf-file-name="nctouch-nav-home.jsx" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/components/nctouch-nav-home/nctouch-nav-home.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="34" column="11" selection-start-line="34" selection-start-column="11" selection-end-line="34" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -113,20 +57,21 @@
       <file leaf-file-name="banner.jsx" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/banner/banner.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="149">
-              <caret line="36" column="28" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="28" />
+            <state relative-caret-position="108">
+              <caret line="38" column="35" lean-forward="true" selection-start-line="38" selection-start-column="35" selection-end-line="38" selection-end-column="35" />
               <folding>
                 <element signature="e#0#37#0" expanded="true" />
+                <element signature="e#320#948#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/index.js">
+      <file leaf-file-name="index.sass" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/assets/sass/index.sass">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="52">
-              <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+            <state relative-caret-position="130">
+              <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -135,7 +80,7 @@
         <entry file="file://$PROJECT_DIR$/src/components/banner/banner.sass">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="26">
-              <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -193,15 +138,17 @@
         <option value="$PROJECT_DIR$/public/index.html" />
         <option value="$PROJECT_DIR$/src/components/navheader/header.sass" />
         <option value="$PROJECT_DIR$/src/components/navheader/navheader.jsx" />
-        <option value="$PROJECT_DIR$/src/assets/sass/index.sass" />
-        <option value="$PROJECT_DIR$/src/components/banner/banner.sass" />
-        <option value="$PROJECT_DIR$/src/container/home/home.sass" />
         <option value="$PROJECT_DIR$/项目流程.md" />
         <option value="$PROJECT_DIR$/src/index.js" />
-        <option value="$PROJECT_DIR$/src/container/app/App.js" />
-        <option value="$PROJECT_DIR$/src/components/banner/banner.jsx" />
-        <option value="$PROJECT_DIR$/src/container/home/home.jsx" />
         <option value="$PROJECT_DIR$/遇到的问题.md" />
+        <option value="$PROJECT_DIR$/src/components/banner/banner.sass" />
+        <option value="$PROJECT_DIR$/src/components/banner/banner.jsx" />
+        <option value="$PROJECT_DIR$/src/container/app/App.js" />
+        <option value="$PROJECT_DIR$/src/assets/sass/index.sass" />
+        <option value="$PROJECT_DIR$/src/container/home/home.sass" />
+        <option value="$PROJECT_DIR$/doc/迈客风首页数据.json" />
+        <option value="$PROJECT_DIR$/src/container/home/home.jsx" />
+        <option value="$PROJECT_DIR$/src/components/nctouch-nav-home/nctouch-nav-home.jsx" />
       </list>
     </option>
   </component>
@@ -249,27 +196,14 @@
               <item name="maikefeng" type="b2602c69:ProjectViewProjectNode" />
               <item name="maikefeng" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="maikefeng" type="b2602c69:ProjectViewProjectNode" />
               <item name="maikefeng" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="sass" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="maikefeng" type="b2602c69:ProjectViewProjectNode" />
-              <item name="maikefeng" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="container" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="maikefeng" type="b2602c69:ProjectViewProjectNode" />
-              <item name="maikefeng" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="container" type="462c0819:PsiDirectoryNode" />
-              <item name="home" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="nctouch-nav-home" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -292,16 +226,16 @@
     <property name="settings.editor.selected.configurable" value="settings.javascript.linters.eslint" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="I:\workspace\maikefeng\src\assets\sass" />
+      <recent name="I:\workspace\maikefeng\src\container\app" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="I:\workspace\maikefeng\doc" />
       <recent name="I:\workspace\maikefeng\src\components\navheader\images" />
       <recent name="I:\workspace\maikefeng\src\components\navfooter" />
       <recent name="I:\workspace\maikefeng\src\container" />
       <recent name="I:\workspace\maikefeng" />
-      <recent name="I:\workspace\maikefeng\src" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="I:\workspace\maikefeng\src\assets\sass" />
-      <recent name="I:\workspace\maikefeng\src\container\app" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -338,12 +272,12 @@
       <workItem from="1538986942983" duration="9077000" />
       <workItem from="1539044106768" duration="26349000" />
       <workItem from="1539095853956" duration="1819000" />
-      <workItem from="1539130100141" duration="956000" />
+      <workItem from="1539130100141" duration="13584000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49506000" />
+    <option name="totallyTimeSpent" value="62134000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1378" height="744" extended-state="0" />
@@ -358,7 +292,7 @@
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Mongo Explorer" order="3" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32838285" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.18976897" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -382,23 +316,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/container/find/find.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/container/home/home.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-          <folding>
-            <element signature="e#0#37#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/container/mine/mine.jsx">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="130">
@@ -557,40 +474,6 @@
     <entry file="file://$PROJECT_DIR$/src/components/navheader/header.sass">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/assets/sass/index.sass">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/banner/banner.sass">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26">
-          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/navheader/navheader.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="10" column="54" selection-start-line="10" selection-start-column="54" selection-end-line="10" selection-end-column="54" />
-          <folding>
-            <element signature="e#0#37#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/navfooter/navfooter.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
-          <folding>
-            <element signature="e#0#37#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/项目流程.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -601,52 +484,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/container/app/App.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/container/home/home.sass">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/banner/banner.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="36" column="28" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="28" />
-          <folding>
-            <element signature="e#0#37#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/container/home/home.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="19" column="51" selection-start-line="19" selection-start-column="51" selection-end-line="19" selection-end-column="51" />
-          <folding>
-            <element signature="e#0#37#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/后台文档接口.md">
+    <entry file="file://$PROJECT_DIR$/遇到的问题.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="52">
-            <caret line="2" column="61" lean-forward="true" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="61" />
+          <first_editor relative-caret-position="78">
+            <caret line="3" column="55" selection-start-line="3" selection-start-column="55" selection-end-line="3" selection-end-column="55" />
           </first_editor>
           <second_editor />
         </state>
@@ -667,13 +509,354 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/遇到的问题.md">
+    <entry file="file://$PROJECT_DIR$/后台文档接口.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="78">
-            <caret line="3" column="55" selection-start-line="3" selection-start-column="55" selection-end-line="3" selection-end-column="55" />
+          <first_editor relative-caret-position="52">
+            <caret line="2" column="61" lean-forward="true" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="61" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/navfooter/navfooter.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/navheader/navheader.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="10" column="54" selection-start-line="10" selection-start-column="54" selection-end-line="10" selection-end-column="54" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/banner/banner.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="38" column="35" lean-forward="true" selection-start-line="38" selection-start-column="35" selection-end-line="38" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+            <element signature="e#320#948#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/container/app/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="23" column="47" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/banner/banner.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/sass/index.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/迈客风首页数据.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="485">
+          <caret line="179" column="8" selection-start-line="179" selection-start-column="8" selection-end-line="179" selection-end-column="8" />
+          <folding>
+            <element signature="e#68#818#0" />
+            <element signature="e#103#775#0" />
+            <element signature="e#125#430#0" />
+            <element signature="e#452#757#0" />
+            <element signature="e#861#1168#0" />
+            <element signature="e#1211#3329#0" />
+            <element signature="e#1272#3286#0" />
+            <element signature="e#1294#1604#0" />
+            <element signature="e#1626#1936#0" />
+            <element signature="e#1958#2269#0" />
+            <element signature="e#2291#2602#0" />
+            <element signature="e#2624#2935#0" />
+            <element signature="e#2957#3268#0" />
+            <element signature="e#3372#4774#0" />
+            <element signature="e#3435#4731#0" />
+            <element signature="e#3457#3768#0" />
+            <element signature="e#3790#4103#0" />
+            <element signature="e#4125#4437#0" />
+            <element signature="e#4459#4713#0" />
+            <element signature="e#4817#5064#0" />
+            <element signature="e#5084#6578#0" />
+            <element signature="e#5107#6568#0" />
+            <element signature="e#5179#6525#0" />
+            <element signature="e#5201#5511#0" />
+            <element signature="e#5533#5843#0" />
+            <element signature="e#5865#6175#0" />
+            <element signature="e#6197#6507#0" />
+            <element signature="e#6588#6857#0" />
+            <element signature="e#6611#6847#0" />
+            <element signature="e#6867#7606#0" />
+            <element signature="e#6890#7596#0" />
+            <element signature="e#7616#7861#0" />
+            <element signature="e#7639#7851#0" />
+            <element signature="e#7871#9340#0" />
+            <element signature="e#7949#9287#0" />
+            <element signature="e#7971#8280#0" />
+            <element signature="e#8302#8611#0" />
+            <element signature="e#8633#8940#0" />
+            <element signature="e#8962#9269#0" />
+            <element signature="e#9350#10615#0" />
+            <element signature="e#9373#10605#0" />
+            <element signature="e#9428#10562#0" />
+            <element signature="e#9450#9716#0" />
+            <element signature="e#9738#9992#0" />
+            <element signature="e#10014#10268#0" />
+            <element signature="e#10290#10544#0" />
+            <element signature="e#10625#10910#0" />
+            <element signature="e#10648#10900#0" />
+            <element signature="e#10920#11195#0" />
+            <element signature="e#10943#11185#0" />
+            <element signature="e#11205#13754#0" />
+            <element signature="e#11228#13744#0" />
+            <element signature="e#11298#13701#0" />
+            <element signature="e#11320#11621#0" />
+            <element signature="e#11643#11944#0" />
+            <element signature="e#11966#12267#0" />
+            <element signature="e#12289#12590#0" />
+            <element signature="e#12612#12864#0" />
+            <element signature="e#12886#13137#0" />
+            <element signature="e#13159#13410#0" />
+            <element signature="e#13432#13683#0" />
+            <element signature="e#13764#16114#0" />
+            <element signature="e#13787#16104#0" />
+            <element signature="e#13857#16061#0" />
+            <element signature="e#13879#14130#0" />
+            <element signature="e#14152#14403#0" />
+            <element signature="e#14425#14676#0" />
+            <element signature="e#14698#14949#0" />
+            <element signature="e#14971#15223#0" />
+            <element signature="e#15245#15497#0" />
+            <element signature="e#15519#15770#0" />
+            <element signature="e#15792#16043#0" />
+            <element signature="e#16124#18479#0" />
+            <element signature="e#16147#18469#0" />
+            <element signature="e#16217#18426#0" />
+            <element signature="e#16239#16490#0" />
+            <element signature="e#16512#16764#0" />
+            <element signature="e#16786#17039#0" />
+            <element signature="e#17061#17312#0" />
+            <element signature="e#17334#17587#0" />
+            <element signature="e#17609#17860#0" />
+            <element signature="e#17882#18134#0" />
+            <element signature="e#18156#18408#0" />
+            <element signature="e#18489#18778#0" />
+            <element signature="e#18512#18768#0" />
+            <element signature="e#18788#19030#0" />
+            <element signature="e#18811#19020#0" />
+            <element signature="e#19040#24791#0" />
+            <element signature="e#19063#24781#0" />
+            <element signature="e#19127#24738#0" />
+            <element signature="e#19149#19600#0" />
+            <element signature="e#19622#20058#0" />
+            <element signature="e#20080#20514#0" />
+            <element signature="e#20536#20981#0" />
+            <element signature="e#21003#21451#0" />
+            <element signature="e#21473#21911#0" />
+            <element signature="e#21933#22381#0" />
+            <element signature="e#22403#22851#0" />
+            <element signature="e#22873#23312#0" />
+            <element signature="e#23334#23781#0" />
+            <element signature="e#23803#24251#0" />
+            <element signature="e#24273#24720#0" />
+            <element signature="e#24801#25076#0" />
+            <element signature="e#24824#25066#0" />
+            <element signature="e#25086#25427#0" />
+            <element signature="e#25109#25417#0" />
+            <element signature="e#25437#29408#0" />
+            <element signature="e#25460#29398#0" />
+            <element signature="e#25526#29355#0" />
+            <element signature="e#25548#26005#0" />
+            <element signature="e#26027#26507#0" />
+            <element signature="e#26529#26974#0" />
+            <element signature="e#26996#27480#0" />
+            <element signature="e#27502#27939#0" />
+            <element signature="e#27961#28404#0" />
+            <element signature="e#28426#28868#0" />
+            <element signature="e#28890#29337#0" />
+            <element signature="e#29418#29660#0" />
+            <element signature="e#29441#29650#0" />
+            <element signature="e#29670#30008#0" />
+            <element signature="e#29693#29998#0" />
+            <element signature="e#30018#31280#0" />
+            <element signature="e#30041#31270#0" />
+            <element signature="e#30110#31227#0" />
+            <element signature="e#30132#30386#0" />
+            <element signature="e#30408#30659#0" />
+            <element signature="e#30681#30934#0" />
+            <element signature="e#30956#31209#0" />
+            <element signature="e#31290#37133#0" />
+            <element signature="e#31313#37123#0" />
+            <element signature="e#31383#37080#0" />
+            <element signature="e#31405#31865#0" />
+            <element signature="e#31887#32343#0" />
+            <element signature="e#32365#32805#0" />
+            <element signature="e#32827#33266#0" />
+            <element signature="e#33288#33738#0" />
+            <element signature="e#33760#34189#0" />
+            <element signature="e#34211#34689#0" />
+            <element signature="e#34711#35165#0" />
+            <element signature="e#35187#35625#0" />
+            <element signature="e#35647#36102#0" />
+            <element signature="e#36124#36582#0" />
+            <element signature="e#36604#37062#0" />
+            <element signature="e#37143#37418#0" />
+            <element signature="e#37166#37408#0" />
+            <element signature="e#37428#37765#0" />
+            <element signature="e#37451#37755#0" />
+            <element signature="e#37775#41659#0" />
+            <element signature="e#37798#41649#0" />
+            <element signature="e#37865#41606#0" />
+            <element signature="e#37887#38311#0" />
+            <element signature="e#38333#38760#0" />
+            <element signature="e#38782#39226#0" />
+            <element signature="e#39248#39687#0" />
+            <element signature="e#39709#40161#0" />
+            <element signature="e#40183#40623#0" />
+            <element signature="e#40645#41106#0" />
+            <element signature="e#41128#41588#0" />
+            <element signature="e#41669#41955#0" />
+            <element signature="e#41692#41945#0" />
+            <element signature="e#41965#42253#0" />
+            <element signature="e#41988#42243#0" />
+            <element signature="e#42263#46988#0" />
+            <element signature="e#42286#46978#0" />
+            <element signature="e#42352#46935#0" />
+            <element signature="e#42374#42807#0" />
+            <element signature="e#42829#43249#0" />
+            <element signature="e#43271#43718#0" />
+            <element signature="e#43740#44168#0" />
+            <element signature="e#44190#44645#0" />
+            <element signature="e#44667#45107#0" />
+            <element signature="e#45129#45559#0" />
+            <element signature="e#45581#46009#0" />
+            <element signature="e#46031#46464#0" />
+            <element signature="e#46486#46917#0" />
+            <element signature="e#46998#47273#0" />
+            <element signature="e#47021#47263#0" />
+            <element signature="e#47283#47571#0" />
+            <element signature="e#47306#47561#0" />
+            <element signature="e#47581#52305#0" />
+            <element signature="e#47604#52295#0" />
+            <element signature="e#47670#52252#0" />
+            <element signature="e#47692#48130#0" />
+            <element signature="e#48152#48590#0" />
+            <element signature="e#48612#49043#0" />
+            <element signature="e#49065#49495#0" />
+            <element signature="e#49517#49949#0" />
+            <element signature="e#49971#50413#0" />
+            <element signature="e#50435#50861#0" />
+            <element signature="e#50883#51332#0" />
+            <element signature="e#51354#51784#0" />
+            <element signature="e#51806#52234#0" />
+            <element signature="e#52315#52590#0" />
+            <element signature="e#52338#52580#0" />
+            <element signature="e#52600#52888#0" />
+            <element signature="e#52623#52878#0" />
+            <element signature="e#52898#59464#0" />
+            <element signature="e#52921#59454#0" />
+            <element signature="e#52986#59411#0" />
+            <element signature="e#53008#53465#0" />
+            <element signature="e#53487#53940#0" />
+            <element signature="e#53962#54396#0" />
+            <element signature="e#54418#54840#0" />
+            <element signature="e#54862#55299#0" />
+            <element signature="e#55321#55742#0" />
+            <element signature="e#55764#56200#0" />
+            <element signature="e#56222#56646#0" />
+            <element signature="e#56668#57098#0" />
+            <element signature="e#57120#57545#0" />
+            <element signature="e#57567#58005#0" />
+            <element signature="e#58027#58463#0" />
+            <element signature="e#58485#58920#0" />
+            <element signature="e#58942#59393#0" />
+            <element signature="e#59474#59812#0" />
+            <element signature="e#59497#59802#0" />
+            <element signature="e#59822#60162#0" />
+            <element signature="e#59845#60152#0" />
+            <element signature="e#60172#64095#0" />
+            <element signature="e#60195#64085#0" />
+            <element signature="e#60260#64042#0" />
+            <element signature="e#60282#60737#0" />
+            <element signature="e#60759#61210#0" />
+            <element signature="e#61232#61698#0" />
+            <element signature="e#61720#62178#0" />
+            <element signature="e#62200#62629#0" />
+            <element signature="e#62651#63091#0" />
+            <element signature="e#63113#63550#0" />
+            <element signature="e#63572#64024#0" />
+            <element signature="e#64105#64380#0" />
+            <element signature="e#64128#64370#0" />
+            <element signature="e#64390#64678#0" />
+            <element signature="e#64413#64668#0" />
+            <element signature="e#64688#68585#0" />
+            <element signature="e#64711#68575#0" />
+            <element signature="e#64774#68532#0" />
+            <element signature="e#64796#65243#0" />
+            <element signature="e#65265#65705#0" />
+            <element signature="e#65727#66171#0" />
+            <element signature="e#66193#66631#0" />
+            <element signature="e#66653#67098#0" />
+            <element signature="e#67120#67550#0" />
+            <element signature="e#67572#68029#0" />
+            <element signature="e#68051#68514#0" />
+            <element signature="e#68595#69925#0" />
+            <element signature="e#68623#69915#0" />
+            <element signature="e#68851#69901#0" />
+            <element signature="e#68873#69366#0" />
+            <element signature="e#69388#69883#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/container/home/home.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6" column="18" lean-forward="true" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/container/home/home.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="37" column="24" selection-start-line="37" selection-start-column="24" selection-end-line="37" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+            <element signature="e#710#1006#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/nctouch-nav-home/nctouch-nav-home.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="34" column="11" selection-start-line="34" selection-start-column="11" selection-end-line="34" selection-end-column="11" />
         </state>
       </provider>
     </entry>
