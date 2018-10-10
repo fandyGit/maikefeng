@@ -35,21 +35,21 @@ export default class NctouchNavHome extends Component{
   }
   render(){
     return (
-      <WingBlank className='flex-container'>
+      <div className='flex-container'>
         <WhiteSpace size="lg" />
         <Flex>
           {
-            this.state.imgs.map(item=>{
+            this.state.imgs.map((item,index)=>{
               return (
-                  <Flex.Item>
+                  <Flex.Item key={index}>
                     <img className='pic' src={item.url} alt={item.title}/>
                     <i>{item.title}</i>
                   </Flex.Item>
               )})
           }
         </Flex>
-        <WhiteSpace size="lg" />
-      </WingBlank>
+        <WhiteSpace size="small" />
+      </div>
     )
   }
 }

@@ -29,40 +29,23 @@ export default class Home extends Component{
       }
     })
   }
-  componentDidMount(){
-    let scroll = new BScroll('.wrapper',{
-      scrollY: true,
-      click: true
-    })
-  }
   render(){
     const {banners,layoutc,layoutd}=this.state;
     return (
       <div>
-        <div className='wrapper'>
-          <ul className='content'>
-            <li>
-              <Banner banners={banners}></Banner>
-            </li>
-            <li>
-              <div className='item-pic'>
-                <a href="http://www.51mkf.com/wap/special_detail.html?special_id=170">
-                  <img src="http://www.51mkf.com/data/upload/mobile/special/s0/s0_05905806944492058.gif" alt=""/>
-                </a>
-              </div>
-            </li>
-            <li>
-              <NctouchNavHome></NctouchNavHome>
-            </li>
-            <li>
-              <NctouchNavLayout layoutc={layoutc}
-                                layoutd={layoutd}
-              />
-            </li>
-          </ul>
-        </div>
+          <Banner banners={banners}></Banner>
+          <WingBlank>
+            <div className='item-pic'>
+              <a href="http://www.51mkf.com/wap/special_detail.html?special_id=170">
+                <img src="http://www.51mkf.com/data/upload/mobile/special/s0/s0_05905806944492058.gif" alt=""/>
+              </a>
+            </div>
+          </WingBlank>
+          <NctouchNavHome></NctouchNavHome>
+          <NctouchNavLayout layoutc={layoutc}
+                            layoutd={layoutd}
+          />
       </div>
-
     )
   }
 }
