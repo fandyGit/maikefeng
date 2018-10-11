@@ -1,6 +1,8 @@
 import React,{Component} from 'react'
 import BScroll from 'better-scroll'
 import Banner from '../../components/banner/banner'
+
+import NavHeader from '../../components/navheader/navheader'
 import NctouchNavHome from '../../components/nctouch-nav-home/nctouch-nav-home'
 import Layoutc from '../../components/nctouch-home-layout/layoutc/layoutc'
 import Layoute from '../../components/nctouch-home-layout/layoute/layoute'
@@ -75,6 +77,7 @@ export default class Home extends Component{
       layouti5,layouti6,layouti7,layouti8,layouti9}=this.state;
     return (
       <div>
+        <NavHeader></NavHeader>
         <div className='wrapper'>
           <ul className='content'>
             {/*轮播图*/}

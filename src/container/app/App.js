@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import {Switch,Route} from 'react-router-dom'
+import {Switch,Route,Redirect} from 'react-router-dom'
 
 import Home from '../home/home'
 import Category from '../category/category'
@@ -7,18 +7,17 @@ import Find from '../find/find'
 import Cart from '../cart/cart'
 import Mine from '../mine/mine'
 import NavFooter from '../../components/navfooter/navfooter'
-import NavHeader from '../../components/navheader/navheader'
 import '../../assets/sass/index.sass'
 class App extends Component {
   render() {
     let { routes } = this.props
     return (
       <div className='app'>
-        <NavHeader></NavHeader>
         <Switch>
           { routes.map(({ id, path, component, render, exact }) => (
             <Route key = {id} exact = {exact} path = {path} component = {component} render = {render} />
           )) }
+          <Redirect to='/home'></Redirect>
         </Switch>
 
         <NavFooter routes={routes}></NavFooter>
