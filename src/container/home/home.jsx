@@ -29,6 +29,7 @@ export default class Home extends Component{
     layouti4:[],//智能家电
     layouti5:[],//食品酒水
     layouti6:[],//母婴专区
+    layouti7:[],//日用百货
 
   }
   componentWillMount(){
@@ -53,6 +54,7 @@ export default class Home extends Component{
           layouti4:result.datas[28]['goods']['item'],
           layouti5:result.datas[31]['goods']['item'],
           layouti6:result.datas[34]['goods']['item'],
+          layouti7:result.datas[37]['goods']['item'],
         })
       }
     })
@@ -66,7 +68,7 @@ export default class Home extends Component{
   render(){
     const {banners,layoutc,layoutd,layoute,layoutf,layoutg,layouth1,
       layouth2,layouth3,layouti,layouti1,layouti2,layouti3,layouti4,
-      layouti5,layouti6}=this.state;
+      layouti5,layouti6,layouti7}=this.state;
     return (
       <div>
         <div className='wrapper'>
@@ -180,7 +182,14 @@ export default class Home extends Component{
               </a>
               <Layouti layouti={layouti6}></Layouti>
             </li>
-
+            {/*日用百货*/}
+            <li>
+              <img style={{display:'block',height:'43px'}} className='layout-f' src="http://www.51mkf.com/data/upload/mobile/special/s0/s0_05838683108844319.jpg" alt=""/>
+              <a style={{display:'block',height:'125px'}} href="###">
+                <img style={{display:'block',height:'125px'}} className='layout-f' src="http://www.51mkf.com/data/upload/mobile/special/s0/s0_05838681771514960.jpg" alt=""/>
+              </a>
+              <Layouti layouti={layouti7}></Layouti>
+            </li>
           </ul>
         </div>
       </div>
