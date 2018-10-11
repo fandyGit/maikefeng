@@ -6,6 +6,7 @@ import Layoutc from '../../components/nctouch-home-layout/layoutc/layoutc'
 import Layoute from '../../components/nctouch-home-layout/layoute/layoute'
 import Layoutf from '../../components/nctouch-home-layout/layoutf/layoutf'
 import Layoutg from '../../components/nctouch-home-layout/layoutg/layoutg'
+import Layouth from '../../components/nctouch-home-layout/layouth/layouth'
 import './home.sass'
 
 export default class Home extends Component{
@@ -49,7 +50,7 @@ export default class Home extends Component{
   }
   render(){
     const {banners,layoutc,layoutd,
-      layoute,layoutf,layoutg}=this.state;
+      layoute,layoutf,layoutg,layouth1,layouth2,layouth3}=this.state;
     return (
       <div>
         <div className='wrapper'>
@@ -113,7 +114,8 @@ export default class Home extends Component{
             </li>
             <li>
               <img className='layout-f' src="http://www.51mkf.com/data/upload/mobile/special/s0/s0_05872427367680592.jpg" alt=""/>
-
+             {/*公司logo品牌墙*/}
+              <Layouth layouth1={layouth1} layouth2={layouth2} layouth3={layouth3}/>
             </li>
           </ul>
         </div>
