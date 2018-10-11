@@ -1,8 +1,6 @@
 import React,{Component} from 'react'
 import { Flex, WhiteSpace ,WingBlank} from 'antd-mobile';
 
-// import './layoutc.sass'
-
 export default class Layoutc extends Component{
   render(){
     return (

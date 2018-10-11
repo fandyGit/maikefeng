@@ -1,7 +1,6 @@
 import React,{Component} from 'react'
 import { Flex} from 'antd-mobile';
 
-// import './layoutf.sass'
 export default class Layoutf extends Component{
   render(){
     return (

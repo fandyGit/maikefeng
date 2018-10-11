@@ -1,8 +1,6 @@
 import React,{Component} from 'react'
 import { Flex, WhiteSpace} from 'antd-mobile';
 
-// import './nctouch-nav-home.sass'
-
 export default class NctouchNavHome extends Component{
   state={
     imgs:[
