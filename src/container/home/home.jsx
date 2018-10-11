@@ -19,13 +19,13 @@ export default class Home extends Component{
     layoute:[],
     layoutf:[],
     layoutg:[],
-    layouth1:[],
-    layouth2:[],
-    layouth3:[],
-    layouti:[],
-    layouti1:[],
-    layouti2:[],
-    layouti3:[],//电脑办公
+    layouth1:[],//公司logo
+    layouth2:[],//公司logo
+    layouth3:[],//公司logo
+    layouti:[],//热门手机
+    layouti1:[],//电脑办公
+    layouti2:[],//配件专场
+    layouti3:[],//配件专场
     layouti4:[],//智能家电
     layouti5:[],//食品酒水
     layouti6:[],//母婴专区
@@ -46,19 +46,19 @@ export default class Home extends Component{
           layoute:result.datas[5]['home5']['item'],
           layoutf:result.datas[9]['home5']['item'],
           layoutg:result.datas[10]['home3']['item'],
-          layouth1:result.datas[13]['home5']['item'],
-          layouth2:result.datas[14]['home5']['item'],
-          layouth3:result.datas[15]['home5']['item'],
-          layouti:result.datas[18]['goods']['item'],
-          layouti1:result.datas[21]['goods']['item'],
-          layouti2:result.datas[24]['home3']['item'],
-          layouti3:result.datas[25]['goods']['item'],
-          layouti4:result.datas[28]['goods']['item'],
-          layouti5:result.datas[31]['goods']['item'],
-          layouti6:result.datas[34]['goods']['item'],
-          layouti7:result.datas[37]['goods']['item'],
-          layouti8:result.datas[40]['goods']['item'],
-          layouti9:result.datas[43]['goods']['item'],
+          layouth1:result.datas[13]['home5']['item'],//公司logo
+          layouth2:result.datas[14]['home5']['item'],//公司logo
+          layouth3:result.datas[15]['home5']['item'],//公司logo
+          layouti:result.datas[18]['goods']['item'],//热门手机
+          layouti1:result.datas[21]['goods']['item'],//电脑办公
+          layouti2:result.datas[24]['home3']['item'],//配件专场
+          layouti3:result.datas[25]['goods']['item'],//配件专场
+          layouti4:result.datas[28]['goods']['item'],//智能家电
+          layouti5:result.datas[31]['goods']['item'],//食品酒水
+          layouti6:result.datas[34]['goods']['item'],//母婴专区
+          layouti7:result.datas[37]['goods']['item'],//日用百货
+          layouti8:result.datas[40]['goods']['item'],//美妆洗护
+          layouti9:result.datas[43]['goods']['item'],//汽车用品
         })
       }
     })
@@ -77,9 +77,11 @@ export default class Home extends Component{
       <div>
         <div className='wrapper'>
           <ul className='content'>
+            {/*轮播图*/}
             <li>
               <Banner banners={banners}></Banner>
             </li>
+            {/*动态广告展现图*/}
             <li>
               <div className='item-pic'>
                 <a href="http://www.51mkf.com/wap/special_detail.html?special_id=170">
@@ -87,20 +89,24 @@ export default class Home extends Component{
                 </a>
               </div>
             </li>
+            {/*列表的分页跳转*/}
             <li>
               <NctouchNavHome></NctouchNavHome>
             </li>
+            {/*列表分类，华硕,双肩包部分*/}
             <li>
               <Layoutc layoutc={layoutc}
                        layoutd={layoutd}
               />
             </li>
+            {/*京心造物大图，枕头部分*/}
             <li>
               <div className='item-pic'>
                   <img src="http://www.51mkf.com/data/upload/mobile/special/s0/s0_05895432640695894.png" alt=""/>
               </div>
               <Layoute layoute={layoute}></Layoute>
             </li>
+            {/*热门专区部分*/}
             <li>
               <img className='layout-f' src="http://www.51mkf.com/data/upload/mobile/special/s0/s0_05872427174157909.jpg" alt=""/>
               <div>
@@ -126,6 +132,7 @@ export default class Home extends Component{
             <li>
               <Layoutf layoutf={layoutf}></Layoutf>
             </li>
+            {/*蓝月亮部分*/}
             <li>
               <Layoutg layoutg={layoutg}></Layoutg>
               <div className='lan'>
@@ -134,11 +141,13 @@ export default class Home extends Component{
                 </a>
               </div>
             </li>
+            {/*公司logo品牌墙*/}
             <li>
               <img className='layout-f' src="http://www.51mkf.com/data/upload/mobile/special/s0/s0_05872427367680592.jpg" alt=""/>
-             {/*公司logo品牌墙*/}
+
               <Layouth layouth1={layouth1} layouth2={layouth2} layouth3={layouth3}/>
             </li>
+            {/*R17热门手机*/}
             <li>
               <a style={{display:'block',height:'125px'}} href="http://www.51mkf.com/wap/tmpl/product_detail.html?goods_id=119856">
                 <img style={{display:'block',height:'125px'}} className='layout-f' src="http://www.51mkf.com/data/upload/mobile/special/s0/s0_05893733429399139.png" alt=""/>
@@ -146,6 +155,7 @@ export default class Home extends Component{
               <img style={{display:'block',height:'43px'}} className='layout-f' src="http://www.51mkf.com/data/upload/mobile/special/s0/s0_05506778612994991.png" alt=""/>
               <Layouti layouti={layouti}></Layouti>
             </li>
+            {/*电脑办公*/}
             <li>
               <img style={{display:'block',height:'43px'}} className='layout-f' src="http://www.51mkf.com/data/upload/mobile/special/s0/s0_05839307525338060.jpg" alt=""/>
               <a style={{display:'block',height:'125px'}} href="http://www.51mkf.com/wap/tmpl/product_detail.html?goods_id=1232">
@@ -153,7 +163,7 @@ export default class Home extends Component{
               </a>
               <Layouti layouti={layouti1}></Layouti>
             </li>
-            {/*电脑办公*/}
+            {/*配件专场*/}
             <li>
               <img style={{display:'block',height:'43px'}} className='layout-f' src="http://www.51mkf.com/data/upload/mobile/special/s0/s0_05506778923821440.png" alt=""/>
               <a style={{display:'block',height:'125px'}} href="http://www.51mkf.com/shop/cate-1367-0-0-0-0-0-0-0-0-0-0.html">
