@@ -1,6 +1,6 @@
 import React,{Component} from 'react'
 
-import { NavBar, Icon ,InputItem} from 'antd-mobile';
+import { NavBar, Icon ,InputItem,SearchBar} from 'antd-mobile';
 
 export default class NavHeader extends Component{
   render(){
@@ -8,13 +8,11 @@ export default class NavHeader extends Component{
       <div>
         <NavBar
           mode="dark"
-          icon={<i className='iconfont icon-saoma'>扫一扫</i>}
+          icon={<i className='iconfont icon-saoma'></i>}
           onLeftClick={() => console.log('onLeftClick')}
-          rightContent={[
-            <Icon key="0" type="search" style={{ marginRight: '10px' }} />,
-          ]}
+          rightContent={<i className='iconfont icon-denglu'></i>}
         >
-          <InputItem type='text'>搜索</InputItem>
+          <SearchBar placeholder='客官,查找你的商品'/>
         </NavBar>
       </div>
     )
