@@ -1,6 +1,6 @@
 import React,{Component} from 'react'
 
-export default class Mcommunication extends Component{
+export default class Childcategory extends Component{
   render(){
     return (
       <div>
