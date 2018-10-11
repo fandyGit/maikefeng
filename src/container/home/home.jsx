@@ -26,6 +26,7 @@ export default class Home extends Component{
     layouti1:[],
     layouti2:[],
     layouti3:[],
+    layouti4:[],
 
   }
   componentWillMount(){
@@ -47,6 +48,7 @@ export default class Home extends Component{
           layouti1:result.datas[21]['goods']['item'],
           layouti2:result.datas[24]['home3']['item'],
           layouti3:result.datas[25]['goods']['item'],
+          layouti4:result.datas[28]['goods']['item'],
         })
       }
     })
@@ -59,7 +61,7 @@ export default class Home extends Component{
   }
   render(){
     const {banners,layoutc,layoutd,layoute,layoutf,layoutg,layouth1,
-      layouth2,layouth3,layouti,layouti1,layouti2,layouti3}=this.state;
+      layouth2,layouth3,layouti,layouti1,layouti2,layouti3,layouti4}=this.state;
     return (
       <div>
         <div className='wrapper'>
@@ -147,6 +149,13 @@ export default class Home extends Component{
               </a>
               <Layoutg layoutg={layouti2}></Layoutg>
               <Layouti layouti={layouti3}></Layouti>
+            </li>
+            <li>
+              <img style={{display:'block',height:'43px'}} className='layout-f' src="http://www.51mkf.com/data/upload/mobile/special/s0/s0_05839308178081626.jpg" alt=""/>
+              <a style={{display:'block',height:'125px'}} href="http://www.51mkf.com/wap/tmpl/product_list.html?gc_id=308">
+                <img style={{display:'block',height:'125px'}} className='layout-f' src="http://www.51mkf.com/data/upload/mobile/special/s0/s0_05838689685369372.jpg" alt=""/>
+              </a>
+              <Layouti layouti={layouti4}></Layouti>
             </li>
 
           </ul>
