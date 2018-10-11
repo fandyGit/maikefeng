@@ -16,7 +16,7 @@ class NavFooter extends Component{
                   title={route.title}
                   icon={{uri:require(`./images/${route.icon}.png`)}}
                   selectedIcon={{uri:require(`./images/${route.icon}-selected.png`)}}
-                  selected={path===route.path}
+                  selected={path.match(route.path)}
                   onPress={() => {
                     this.props.history.replace(route.path);
                   }}

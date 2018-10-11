@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12bfca77-9243-4f3e-9ef0-6fc495a1bc20" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/container/category/category.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/container/category/category.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/container/category/category.sass" beforeDir="false" afterPath="$PROJECT_DIR$/src/container/category/category.sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/navfooter/navfooter.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/navfooter/navfooter.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/container/app/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/container/app/App.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -27,11 +26,35 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="category.sass" pinned="false" current-in-tab="true">
+      <file leaf-file-name="category.sass" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/container/category/category.sass">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            <state relative-caret-position="182">
+              <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="App.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/container/app/App.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="navfooter.jsx" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/components/navfooter/navfooter.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="157">
+              <caret line="18" column="51" lean-forward="true" selection-start-line="18" selection-start-column="51" selection-end-line="18" selection-end-column="51" />
+              <folding>
+                <element signature="e#0#37#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -86,7 +109,6 @@
         <option value="$PROJECT_DIR$/src/App.js" />
         <option value="$PROJECT_DIR$/src/container/cart/cart.jsx" />
         <option value="$PROJECT_DIR$/src/container/mine/mine.jsx" />
-        <option value="$PROJECT_DIR$/src/components/navfooter/navfooter.jsx" />
         <option value="$PROJECT_DIR$/src/container/find/find.jsx" />
         <option value="$PROJECT_DIR$/src/container/app/app.sass" />
         <option value="$PROJECT_DIR$/src/components/navheader/header.sass" />
@@ -116,7 +138,6 @@
         <option value="$PROJECT_DIR$/项目流程.md" />
         <option value="$PROJECT_DIR$/src/assets/sass/index.sass" />
         <option value="$PROJECT_DIR$/src/container/home/home.jsx" />
-        <option value="$PROJECT_DIR$/src/container/app/App.js" />
         <option value="$PROJECT_DIR$/src/components/category-header/category-header.jsx" />
         <option value="$PROJECT_DIR$/src/container/category/txu/txu.jsx" />
         <option value="$PROJECT_DIR$/src/container/category/coffice/coffice.jsx" />
@@ -129,6 +150,8 @@
         <option value="$PROJECT_DIR$/src/container/category/mcommunication/mcommunication.jsx" />
         <option value="$PROJECT_DIR$/src/container/category/category.jsx" />
         <option value="$PROJECT_DIR$/src/container/category/category.sass" />
+        <option value="$PROJECT_DIR$/src/container/app/App.js" />
+        <option value="$PROJECT_DIR$/src/components/navfooter/navfooter.jsx" />
       </list>
     </option>
   </component>
@@ -171,6 +194,19 @@
               <item name="maikefeng" type="b2602c69:ProjectViewProjectNode" />
               <item name="maikefeng" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="maikefeng" type="b2602c69:ProjectViewProjectNode" />
+              <item name="maikefeng" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="maikefeng" type="b2602c69:ProjectViewProjectNode" />
+              <item name="maikefeng" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="navfooter" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="maikefeng" type="b2602c69:ProjectViewProjectNode" />
@@ -265,12 +301,12 @@
       <workItem from="1539044106768" duration="26349000" />
       <workItem from="1539095853956" duration="1819000" />
       <workItem from="1539130100141" duration="30592000" />
-      <workItem from="1539216881543" duration="30158000" />
+      <workItem from="1539216881543" duration="33332000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="109300000" />
+    <option name="totallyTimeSpent" value="112474000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1378" height="744" extended-state="0" />
@@ -285,7 +321,7 @@
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Mongo Explorer" order="3" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.19306931" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.34323433" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -493,16 +529,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/navfooter/navfooter.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="430">
-          <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
-          <folding>
-            <element signature="e#0#37#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/api/index.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -550,13 +576,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="9">
           <caret line="58" column="17" selection-start-line="58" selection-start-column="17" selection-end-line="58" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/container/app/App.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="39">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
@@ -666,8 +685,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/container/category/category.sass">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        <state relative-caret-position="182">
+          <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/container/app/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/navfooter/navfooter.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="18" column="51" lean-forward="true" selection-start-line="18" selection-start-column="51" selection-end-line="18" selection-end-column="51" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

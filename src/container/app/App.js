@@ -14,8 +14,8 @@ class App extends Component {
     return (
       <div className='app'>
         <Switch>
-          { routes.map(({ id, path, component, render, exact }) => (
-            <Route key = {id} exact = {exact} path = {path} component = {component} render = {render} />
+          { routes.map(({ id, path, component, exact }) => (
+            <Route key = {id} path = {path} component = {component}/>
           )) }
           <Redirect to='/home'></Redirect>
         </Switch>
@@ -40,7 +40,7 @@ App.defaultProps = {
       path: '/category',
       icon:'category',
       title:'分类',
-      component: Category
+      component: Category,
     },
     {
       id: 3,
