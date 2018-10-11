@@ -1,7 +1,7 @@
 import React,{Component} from 'react'
 import { Flex, WhiteSpace ,WingBlank} from 'antd-mobile';
 
-import './nctouch-nav-home.sass'
+// import './nctouch-nav-home.sass'
 
 export default class NctouchNavHome extends Component{
   state={
@@ -35,7 +35,7 @@ export default class NctouchNavHome extends Component{
   }
   render(){
     return (
-      <div className='flex-container'>
+      <div className='flex-container-home1'>
         <WhiteSpace size="lg" />
         <Flex>
           {

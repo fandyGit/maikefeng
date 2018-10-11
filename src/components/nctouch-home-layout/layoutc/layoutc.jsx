@@ -1,15 +1,14 @@
 import React,{Component} from 'react'
 import { Flex, WhiteSpace ,WingBlank} from 'antd-mobile';
 
-import './layoutc.sass'
+// import './layoutc.sass'
 
 export default class Layoutc extends Component{
   render(){
-    console.log(this.props.layoutc)
     return (
       <div>
         <Flex direction='row'
-              className='flex-containers'
+              className='flex-container-home3'
               wrap='wrap'
         >
           {
@@ -23,7 +22,7 @@ export default class Layoutc extends Component{
           }
         </Flex>
         <Flex direction='row'
-              className='flex-containers'
+              className='flex-container-home3'
               wrap='wrap'
         >
           {
