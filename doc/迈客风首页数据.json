@@ -1,0 +1,1447 @@
+{
+    "code": 200,
+    "datas": [
+        {
+            "adv_list": {//广告轮播图2张
+                "item": [
+                    {
+                        "image": "http://www.51mkf.com/data/upload/mobile/special/s0/s0_05896319280560562.png",
+                        "type": "url",
+                        "data": "http://www.51mkf.com/wap/special_detail.html?special_id=156",
+                        "sort": "0"
+                    },
+                    {
+                        "image": "http://www.51mkf.com/data/upload/mobile/special/s0/s0_05900905925835105.jpg",
+                        "type": "url",
+                        "data": "http://www.51mkf.com/wap/special_detail.html?special_id=168",
+                        "sort": "0"
+                    }
+                ],
+                "sort": "1"
+            }
+        },
+        {
+            "home1": {//注册送礼包部分
+                "title": "",
+                "app_type": "1",
+                "image": "http://www.51mkf.com/data/upload/mobile/special/s0/s0_05905806944492058.gif",
+                "type": "url",
+                "data": "http://www.51mkf.com/wap/special_detail.html?special_id=170"
+            }
+        },
+        {
+            "home3": {//华硕部分
+                "title": "",
+                "item": [
+                    {
+                        "image": "http://www.51mkf.com/data/upload/mobile/special/s0/s0_05897166494761728.jpg",
+                        "type": "url",
+                        "data": "http://www.51mkf.com/wap/tmpl/product_detail.html?goods_id=110731",
+                        "sort": ""
+                    },
+                    {
+                        "image": "http://www.51mkf.com/data/upload/mobile/special/s0/s0_05907662169410273.jpg",
+                        "type": "url",
+                        "data": "http://www.51mkf.com/wap/tmpl/product_detail.html?goods_id=117635",
+                        "sort": ""
+                    },
+                    {
+                        "image": "http://www.51mkf.com/data/upload/mobile/special/s0/s0_05897167188889401.jpg",
+                        "type": "url",
+                        "data": "http://www.51mkf.com/wap/tmpl/product_detail.html?goods_id=111721",
+                        "sort": "0"
+                    },
+                    {
+                        "image": "http://www.51mkf.com/data/upload/mobile/special/s0/s0_05897168006344530.jpg",
+                        "type": "url",
+                        "data": "http://www.51mkf.com/wap/tmpl/product_detail.html?goods_id=108334",
+                        "sort": "0"
+                    },
+                    {
+                        "image": "http://www.51mkf.com/data/upload/mobile/special/s0/s0_05897168375732252.jpg",
+                        "type": "url",
+                        "data": "http://www.51mkf.com/wap/tmpl/product_detail.html?goods_id=115036",
+                        "sort": "0"
+                    },
+                    {
+                        "image": "http://www.51mkf.com/data/upload/mobile/special/s0/s0_05907661487872473.jpg",
+                        "type": "url",
+                        "data": "http://www.51mkf.com/wap/tmpl/product_detail.html?goods_id=104170",
+                        "sort": "0"
+                    }
+                ],
+                "sort": "1"
+            }
+        },
+        {
+            "home3": {//风尚双双肩包
+                "title": "",
+                "item": [
+                    {
+                        "image": "http://www.51mkf.com/data/upload/mobile/special/s0/s0_05896536307971897.png",
+                        "type": "url",
+                        "data": "http://www.51mkf.com/wap/tmpl/product_detail.html?goods_id=111446",
+                        "sort": "0"
+                    },
+                    {
+                        "image": "http://www.51mkf.com/data/upload/mobile/special/s0/s0_05896537392607250.png",
+                        "type": "goods",
+                        "data": "http://www.51mkf.com/wap/tmpl/product_detail.html?goods_id=104258",
+                        "sort": "0"
+                    },
+                    {
+                        "image": "http://www.51mkf.com/data/upload/mobile/special/s0/s0_05896537466626111.png",
+                        "type": "url",
+                        "data": "https://www.51mkf.com/wap/tmpl/product_detail.html?goods_id=117200",
+                        "sort": "0"
+                    },
+                    {
+                        "image": "http://www.51mkf.com/data/upload/mobile/special/s0/s0_05912722150855670.png",
+                        "type": "goods",
+                        "data": "103563",
+                        "sort": "0"
+                    }
+                ],
+                "sort": "1"
+            }
+        },
+        {
+            "home1": {//京心造物，用心生活
+                "title": "",
+                "app_type": "0",
+                "image": "http://www.51mkf.com/data/upload/mobile/special/s0/s0_05895432640695894.png",
+                "type": "",
+                "data": ""
+            }
+        },
+        {
+            "home5": {//京心造物，用心生活下面四个图片
+                "title": "",
+                "item": [
+                    {
+                        "image": "http://www.51mkf.com/data/upload/mobile/special/s0/s0_05895414309528633.jpg",
+                        "type": "url",
+                        "data": "http://www.51mkf.com/wap/tmpl/product_detail.html?goods_id=117212",
+                        "sort": ""
+                    },
+                    {
+                        "image": "http://www.51mkf.com/data/upload/mobile/special/s0/s0_05895415150995368.jpg",
+                        "type": "url",
+                        "data": "http://www.51mkf.com/wap/tmpl/product_detail.html?goods_id=117207",
+                        "sort": ""
+                    },
+                    {
+                        "image": "http://www.51mkf.com/data/upload/mobile/special/s0/s0_05895415482066706.jpg",
+                        "type": "url",
+                        "data": "http://www.51mkf.com/wap/tmpl/product_detail.html?goods_id=115763",
+                        "sort": ""
+                    },
+                    {
+                        "image": "http://www.51mkf.com/data/upload/mobile/special/s0/s0_05895416110802533.jpg",
+                        "type": "url",
+                        "data": "http://www.51mkf.com/wap/tmpl/product_detail.html?goods_id=115754",
+                        "sort": ""
+                    }
+                ],
+                "sort": "1"
+            }
+        },
+        {
+            "home1": {
+                "title": "",
+                "app_type": "0",
+                "image": "http://www.51mkf.com/data/upload/mobile/special/s0/s0_05872427174157909.jpg",
+                "type": "",
+                "data": ""
+            }
+        },
+        {
+            "home2": {//热门专区
+                "title": "",
+                "square_image": "http://www.51mkf.com/data/upload/mobile/special/s0/s0_05912720194905352.jpg",
+                "square_type": "goods",
+                "square_data": "112037",
+                "rectangle1_image": "http://www.51mkf.com/data/upload/mobile/special/s0/s0_05841867271206667.jpg",
+                "rectangle1_type": "url",
+                "rectangle1_data": "http://www.51mkf.com/wap/tmpl/product_detail.html?goods_id=115453",
+                "rectangle2_image": "http://www.51mkf.com/data/upload/mobile/special/s0/s0_05844442763109066.jpg",
+                "rectangle2_type": "goods",
+                "rectangle2_data": "104740"
+            }
+        },
+        {
+            "home1": {//一条空白的图片
+                "title": "",
+                "image": "http://www.51mkf.com/data/upload/mobile/special/s0/s0_05515443557815292.png",
+                "type": "",
+                "data": ""
+            }
+        },
+        {
+            "home5": {
+                "title": "",
+                "item": [
+                    {//数码专场
+                        "image": "http://www.51mkf.com/data/upload/mobile/special/s0/s0_05830010730499616.jpg",
+                        "type": "url",
+                        "data": "http://www.51mkf.com/wap/tmpl/product_list.html?gc_id=1351",
+                        "sort": ""
+                    },
+                    {//美妆护肤
+                        "image": "http://www.51mkf.com/data/upload/mobile/special/s0/s0_05830010917842913.jpg",
+                        "type": "url",
+                        "data": "http://www.51mkf.com/wap/tmpl/product_list.html?gc_id=1184",
+                        "sort": ""
+                    },
+                    {//列表
+                        "image": "http://www.51mkf.com/data/upload/mobile/special/s0/s0_05839274389674009.png",
+                        "type": "url",
+                        "data": "http://www.51mkf.com/wap/tmpl/product_list.html?gc_id=1187",
+                        "sort": ""
+                    },
+                    {//列表
+                        "image": "http://www.51mkf.com/data/upload/mobile/special/s0/s0_05839274482361191.png",
+                        "type": "url",
+                        "data": "http://www.51mkf.com/wap/tmpl/product_list.html?gc_id=1197",
+                        "sort": ""
+                    }
+                ],
+                "sort": "1"
+            }
+        },
+        {
+            "home3": {
+                "title": "",
+                "item": [
+                    {//桌面手机支架四个图片
+                        "image": "http://www.51mkf.com/data/upload/mobile/special/s0/s0_05830026543922976.jpg",
+                        "type": "goods",
+                        "data": "110254",
+                        "sort": "0"
+                    },
+                    {
+                        "image": "http://www.51mkf.com/data/upload/mobile/special/s0/s0_05908340773680413.png",
+                        "type": "goods",
+                        "data": "119860",
+                        "sort": "0"
+                    },
+                    {
+                        "image": "http://www.51mkf.com/data/upload/mobile/special/s0/s0_05908341714936831.png",
+                        "type": "goods",
+                        "data": "118549",
+                        "sort": "0"
+                    },
+                    {
+                        "image": "http://www.51mkf.com/data/upload/mobile/special/s0/s0_05912720779186141.jpg",
+                        "type": "goods",
+                        "data": "104823",
+                        "sort": "0"
+                    }
+                ],
+                "sort": "1"
+            }
+        },
+        {
+            "home1": {//蓝月亮
+                "title": "",
+                "app_type": "0",
+                "image": "http://www.51mkf.com/data/upload/mobile/special/s0/s0_05830013804286036.png",
+                "type": "goods",
+                "data": "104286"
+            }
+        },
+        {
+            "home1": {//发现品牌
+                "title": "",
+                "app_type": "0",
+                "image": "http://www.51mkf.com/data/upload/mobile/special/s0/s0_05872427367680592.jpg",
+                "type": "",
+                "data": ""
+            }
+        },
+        {
+            "home5": {//商家的图标共24个每行8个
+                "title": "",
+                "item": [
+                    {
+                        "image": "http://www.51mkf.com/data/upload/mobile/special/s0/s0_05829074542317149.jpg",
+                        "type": "url",
+                        "data": "http://www.51mkf.com/wap/tmpl/product_list.html?b_id=214",
+                        "sort": ""
+                    },
+                    {
+                        "image": "http://www.51mkf.com/data/upload/mobile/special/s0/s0_05829074620732692.jpg",
+                        "type": "url",
+                        "data": "http://www.51mkf.com/wap/tmpl/product_list.html?b_id=371",
+                        "sort": ""
+                    },
+                    {
+                        "image": "http://www.51mkf.com/data/upload/mobile/special/s0/s0_05829074688735229.jpg",
+                        "type": "url",
+                        "data": "http://www.51mkf.com/wap/tmpl/product_list.html?b_id=365",
+                        "sort": ""
+                    },
+                    {
+                        "image": "http://www.51mkf.com/data/upload/mobile/special/s0/s0_05829074740982512.jpg",
+                        "type": "url",
+                        "data": "http://www.51mkf.com/wap/tmpl/product_list.html?b_id=367",
+                        "sort": ""
+                    },
+                    {
+                        "image": "http://www.51mkf.com/data/upload/mobile/special/s0/s0_05829074862293826.jpg",
+                        "type": "keyword",
+                        "data": "毕亚兹",
+                        "sort": ""
+                    },
+                    {
+                        "image": "http://www.51mkf.com/data/upload/mobile/special/s0/s0_05829074924730348.jpg",
+                        "type": "keyword",
+                        "data": "华硕",
+                        "sort": ""
+                    },
+                    {
+                        "image": "http://www.51mkf.com/data/upload/mobile/special/s0/s0_05829075112043759.jpg",
+                        "type": "keyword",
+                        "data": "罗技",
+                        "sort": ""
+                    },
+                    {
+                        "image": "http://www.51mkf.com/data/upload/mobile/special/s0/s0_05829075247421403.jpg",
+                        "type": "keyword",
+                        "data": "得力",
+                        "sort": ""
+                    }
+                ],
+                "sort": "1"
+            }
+        },
+        {
+            "home5": {//商家的图标共24个每行8个
+                "title": "",
+                "item": [
+                    {
+                        "image": "http://www.51mkf.com/data/upload/mobile/special/s0/s0_05829076820712826.jpg",
+                        "type": "keyword",
+                        "data": "格力",
+                        "sort": ""
+                    },
+                    {
+                        "image": "http://www.51mkf.com/data/upload/mobile/special/s0/s0_05829076905113949.jpg",
+                        "type": "keyword",
+                        "data": "美的",
+                        "sort": ""
+                    },
+                    {
+                        "image": "http://www.51mkf.com/data/upload/mobile/special/s0/s0_05829077552635290.jpg",
+                        "type": "keyword",
+                        "data": "小熊",
+                        "sort": ""
+                    },
+                    {
+                        "image": "http://www.51mkf.com/data/upload/mobile/special/s0/s0_05829077939222473.jpg",
+                        "type": "keyword",
+                        "data": "维达",
+                        "sort": ""
+                    },
+                    {
+                        "image": "http://www.51mkf.com/data/upload/mobile/special/s0/s0_05829078031932955.jpg",
+                        "type": "keyword",
+                        "data": "蓝月亮",
+                        "sort": ""
+                    },
+                    {
+                        "image": "http://www.51mkf.com/data/upload/mobile/special/s0/s0_05829078115274232.jpg",
+                        "type": "keyword",
+                        "data": "爱华仕",
+                        "sort": ""
+                    },
+                    {
+                        "image": "http://www.51mkf.com/data/upload/mobile/special/s0/s0_05829078313596286.jpg",
+                        "type": "keyword",
+                        "data": "花王",
+                        "sort": ""
+                    },
+                    {
+                        "image": "http://www.51mkf.com/data/upload/mobile/special/s0/s0_05829078546533771.jpg",
+                        "type": "keyword",
+                        "data": "好奇",
+                        "sort": ""
+                    }
+                ],
+                "sort": "1"
+            }
+        },
+        {
+            "home5": {//商家的图标共24个每行8个
+                "title": "",
+                "item": [
+                    {
+                        "image": "http://www.51mkf.com/data/upload/mobile/special/s0/s0_05829094572628147.jpg",
+                        "type": "keyword",
+                        "data": "贝亲",
+                        "sort": ""
+                    },
+                    {
+                        "image": "http://www.51mkf.com/data/upload/mobile/special/s0/s0_05829094662454325.jpg",
+                        "type": "keyword",
+                        "data": "达利园",
+                        "sort": ""
+                    },
+                    {
+                        "image": "http://www.51mkf.com/data/upload/mobile/special/s0/s0_05829094719184371.jpg",
+                        "type": "keyword",
+                        "data": "良品铺子",
+                        "sort": ""
+                    },
+                    {
+                        "image": "http://www.51mkf.com/data/upload/mobile/special/s0/s0_05829094781475488.jpg",
+                        "type": "keyword",
+                        "data": "伊利",
+                        "sort": ""
+                    },
+                    {
+                        "image": "http://www.51mkf.com/data/upload/mobile/special/s0/s0_05829097521386615.jpg",
+                        "type": "keyword",
+                        "data": "三只松鼠",
+                        "sort": ""
+                    },
+                    {
+                        "image": "http://www.51mkf.com/data/upload/mobile/special/s0/s0_05829097568952593.jpg",
+                        "type": "keyword",
+                        "data": "壳牌",
+                        "sort": ""
+                    },
+                    {
+                        "image": "http://www.51mkf.com/data/upload/mobile/special/s0/s0_05829098887720170.jpg",
+                        "type": "keyword",
+                        "data": "龟牌",
+                        "sort": "0"
+                    },
+                    {
+                        "image": "http://www.51mkf.com/data/upload/mobile/special/s0/s0_05829099023830736.jpg",
+                        "type": "keyword",
+                        "data": "美孚",
+                        "sort": "0"
+                    }
+                ],
+                "sort": "1"
+            }
+        },
+        {
+            "home1": {//R17立即订购
+                "title": "",
+                "app_type": "0",
+                "image": "http://www.51mkf.com/data/upload/mobile/special/s0/s0_05893733429399139.png",
+                "type": "goods",
+                "data": "119856"
+            }
+        },
+        {
+            "home1": {//热门手机
+                "title": "",
+                "image": "http://www.51mkf.com/data/upload/mobile/special/s0/s0_05506778612994991.png",
+                "type": "",
+                "data": ""
+            }
+        },
+        {
+            "goods": {//手机图片10个
+                "title": "",
+                "item": [
+                    {
+                        "goods_id": "119856",
+                        "goods_name": "OPPO R17 幻色渐变机身屏下指纹解锁手机 6.4英寸水滴屏 霓光紫 8G+128G 全网通",
+                        "goods_price": "3499.00",
+                        "goods_promotion_type": "0",
+                        "goods_promotion_price": "3499.00",
+                        "goods_image": "http://www.51mkf.com/data/upload/shop/store/goods/3/2018/09/3_05894609291167814_360.jpg"
+                    },
+                    {
+                        "goods_id": "117634",
+                        "goods_name": "OPPO Find X曲面全景屏 波尔多红 8G+128G 全网通",
+                        "goods_price": "4999.00",
+                        "goods_promotion_type": "0",
+                        "goods_promotion_price": "4999.00",
+                        "goods_image": "http://www.51mkf.com/data/upload/shop/store/goods/3/2018/07/3_05842086001802424_360.jpg"
+                    },
+                    {
+                        "goods_id": "119863",
+                        "goods_name": "荣耀8X 全面屏手机 双卡双待 幻夜黑 6G+128G 全网通",
+                        "goods_price": "1899.00",
+                        "goods_promotion_type": "0",
+                        "goods_promotion_price": "1899.00",
+                        "goods_image": "http://www.51mkf.com/data/upload/shop/store/goods/3/2018/09/3_05899132133372532_360.jpg"
+                    },
+                    {
+                        "goods_id": "116290",
+                        "goods_name": "vivo X21 FIFA世界杯非凡版 屏幕指纹游戏手机 胜利红 6+128 全网通",
+                        "goods_price": "2998.00",
+                        "goods_promotion_type": "0",
+                        "goods_promotion_price": "2998.00",
+                        "goods_image": "http://www.51mkf.com/data/upload/shop/store/goods/3/2018/07/3_05852457108946244_360.jpg"
+                    },
+                    {
+                        "goods_id": "115585",
+                        "goods_name": "vivo NEX 零界全面屏AI双摄游戏手机 星钻黑 【普通版】6GB+128GB 全网通",
+                        "goods_price": "3698.00",
+                        "goods_promotion_type": "0",
+                        "goods_promotion_price": "3698.00",
+                        "goods_image": "http://www.51mkf.com/data/upload/shop/store/goods/3/2018/07/3_05842109020652240_360.jpg"
+                    },
+                    {
+                        "goods_id": "118217",
+                        "goods_name": "荣耀Note10 全面屏 游戏手机 幻夜黑 6GB+128GB 全网通",
+                        "goods_price": "3199.00",
+                        "goods_promotion_type": "0",
+                        "goods_promotion_price": "3199.00",
+                        "goods_image": "http://www.51mkf.com/data/upload/shop/store/goods/3/2018/08/3_05875576153775638_360.jpg"
+                    },
+                    {
+                        "goods_id": "117538",
+                        "goods_name": "华为 HUAWEI P20 AI智慧徕卡双摄全面屏游戏手机 樱粉金 6G+128G 全网通",
+                        "goods_price": "3888.00",
+                        "goods_promotion_type": "0",
+                        "goods_promotion_price": "3888.00",
+                        "goods_image": "http://www.51mkf.com/data/upload/shop/store/goods/3/2018/08/3_05866967305258381_360.jpg"
+                    },
+                    {
+                        "goods_id": "117377",
+                        "goods_name": "华为 HUAWEI nova 3e 全面屏2400万前置摄像 克莱因蓝 4+64G 全网通",
+                        "goods_price": "1699.00",
+                        "goods_promotion_type": "0",
+                        "goods_promotion_price": "1699.00",
+                        "goods_image": "http://www.51mkf.com/data/upload/shop/store/goods/3/2018/08/3_05866917420805224_360.jpg"
+                    },
+                    {
+                        "goods_id": "118523",
+                        "goods_name": "vivo Y85 刘海全面屏 美颜拍照手机 香槟金 4G+64G 全网通",
+                        "goods_price": "1698.00",
+                        "goods_promotion_type": "0",
+                        "goods_promotion_price": "1698.00",
+                        "goods_image": "http://www.51mkf.com/data/upload/shop/store/goods/3/2018/08/3_05877344355330443_360.jpg"
+                    },
+                    {
+                        "goods_id": "117598",
+                        "goods_name": "华为 HUAWEI nova 3i全面屏高清四摄游戏手机 亮黑色 4G+128G 全网通",
+                        "goods_price": "1999.00",
+                        "goods_promotion_type": "0",
+                        "goods_promotion_price": "1999.00",
+                        "goods_image": "http://www.51mkf.com/data/upload/shop/store/goods/3/2018/08/3_05866984821458810_360.jpg"
+                    },
+                    {
+                        "goods_id": "115587",
+                        "goods_name": "vivo NEX 零界全面屏AI双摄游戏手机 宝石红 【普通版】6GB+128GB 全网通",
+                        "goods_price": "3698.00",
+                        "goods_promotion_type": "0",
+                        "goods_promotion_price": "3698.00",
+                        "goods_image": "http://www.51mkf.com/data/upload/shop/store/goods/3/2018/07/3_05842116252431621_360.jpg"
+                    },
+                    {
+                        "goods_id": "117579",
+                        "goods_name": "华为畅享8 全面屏三卡槽 移动联通电信4G手机 双卡双待 黑色 4GB+64GB 全网通",
+                        "goods_price": "1199.00",
+                        "goods_promotion_type": "0",
+                        "goods_promotion_price": "1199.00",
+                        "goods_image": "http://www.51mkf.com/data/upload/shop/store/goods/3/2018/08/3_05866982699966075_360.jpg"
+                    }
+                ],
+                "sort": "2"
+            }
+        },
+        {
+            "home1": {//电脑办公
+                "title": "",
+                "app_type": "0",
+                "image": "http://www.51mkf.com/data/upload/mobile/special/s0/s0_05839307525338060.jpg",
+                "type": "",
+                "data": ""
+            }
+        },
+        {
+            "home1": {//电脑办公,很有新计
+                "title": "",
+                "app_type": "0",
+                "image": "http://www.51mkf.com/data/upload/mobile/special/s0/s0_05839425773470935.png",
+                "type": "url",
+                "data": "http://www.51mkf.com/wap/tmpl/product_list.html?gc_id=1232"
+            }
+        },
+        {
+            "goods": {//电脑办公下面的图片
+                "title": "",
+                "item": [
+                    {
+                        "goods_id": "104847",
+                        "goods_name": "小米(MI) Air 12.5英寸全金属超轻薄笔记本电脑(【office银色】M-7Y30 4G 256G)",
+                        "goods_price": "4099.00",
+                        "goods_promotion_type": "0",
+                        "goods_promotion_price": "4099.00",
+                        "goods_image": "http://www.51mkf.com/data/upload/shop/store/goods/3/2018/04/3_05766100772102807_360.jpg"
+                    },
+                    {
+                        "goods_id": "108873",
+                        "goods_name": "狄派(hiapad)DP350系列 电竞游戏LOL吃鸡台式电脑主机（120G+500G GTX1050Ti 键鼠） 单主机 i5四核【8G/双硬盘/独显】",
+                        "goods_price": "3199.00",
+                        "goods_promotion_type": "0",
+                        "goods_promotion_price": "3199.00",
+                        "goods_image": "http://www.51mkf.com/data/upload/shop/store/goods/3/2018/05/3_05790029132798429_360.jpg"
+                    },
+                    {
+                        "goods_id": "103491",
+                        "goods_name": "Apple iPad mini 4 平板电脑 7.9英寸 金色 128G WLAN版",
+                        "goods_price": "2799.00",
+                        "goods_promotion_type": "0",
+                        "goods_promotion_price": "2799.00",
+                        "goods_image": "http://www.51mkf.com/data/upload/shop/store/goods/3/2017/12/3_05659592773834350_360.jpg"
+                    },
+                    {
+                        "goods_id": "110984",
+                        "goods_name": "dostyle DM270GC 27英寸1800R曲率144Hz 电竞吃鸡显示器(原装三星曲面VA面板 85%+NTSC广色域 HDMI/DP/DVI/耳机接口)",
+                        "goods_price": "1199.00",
+                        "goods_promotion_type": "0",
+                        "goods_promotion_price": "1199.00",
+                        "goods_image": "http://www.51mkf.com/data/upload/shop/store/goods/3/2018/05/3_05802344971235104_360.jpg"
+                    },
+                    {
+                        "goods_id": "104198",
+                        "goods_name": "惠朗（huilang）ML600B（C）点钞机验钞机语音报读 USB升级",
+                        "goods_price": "299.00",
+                        "goods_promotion_type": "0",
+                        "goods_promotion_price": "299.00",
+                        "goods_image": "http://www.51mkf.com/data/upload/shop/store/goods/3/2018/03/3_05738386616098234_360.jpg"
+                    },
+                    {
+                        "goods_id": "104210",
+                        "goods_name": "得力(deli)锐剑系列小型入墙入柜保管箱 高25cm办公家用密码保管柜 92620",
+                        "goods_price": "299.00",
+                        "goods_promotion_type": "0",
+                        "goods_promotion_price": "299.00",
+                        "goods_image": "http://www.51mkf.com/data/upload/shop/store/goods/3/2018/03/3_05739267629284169_360.jpg"
+                    },
+                    {
+                        "goods_id": "113395",
+                        "goods_name": "罗技（Logitech）无线键鼠套装 MK240 Nano 无线鼠标无线键盘套装 白粉",
+                        "goods_price": "99.00",
+                        "goods_promotion_type": "0",
+                        "goods_promotion_price": "99.00",
+                        "goods_image": "http://www.51mkf.com/data/upload/shop/store/goods/3/2018/06/3_05821291712159394_360.jpg"
+                    },
+                    {
+                        "goods_id": "106060",
+                        "goods_name": "360安全路由器P1 家用300M无线穿墙 光纤wifi信号放大 智能无线路由器 湖波青 穿墙版",
+                        "goods_price": "99.00",
+                        "goods_promotion_type": "0",
+                        "goods_promotion_price": "99.00",
+                        "goods_image": "http://www.51mkf.com/data/upload/shop/store/goods/3/2018/04/3_05773797711189331_360.jpg"
+                    }
+                ],
+                "sort": "2"
+            }
+        },
+        {
+            "home1": {//配件专场
+                "title": "",
+                "image": "http://www.51mkf.com/data/upload/mobile/special/s0/s0_05506778923821440.png",
+                "type": "",
+                "data": ""
+            }
+        },
+        {
+            "home1": {//配件大全
+                "title": "",
+                "app_type": "0",
+                "image": "http://www.51mkf.com/data/upload/mobile/special/s0/s0_05839476044017318.png",
+                "type": "url",
+                "data": "http://www.51mkf.com/shop/cate-1367-0-0-0-0-0-0-0-0-0-0.html"
+            }
+        },
+        {
+            "home3": {//配件 大全下面的四个图片
+                "title": "",
+                "item": [
+                    {
+                        "image": "http://www.51mkf.com/data/upload/mobile/special/s0/s0_05521463470288471.jpg",
+                        "type": "keyword",
+                        "data": "手机保护壳",
+                        "sort": ""
+                    },
+                    {
+                        "image": "http://www.51mkf.com/data/upload/mobile/special/s0/s0_05521463604863908.jpg",
+                        "type": "keyword",
+                        "data": "耳机",
+                        "sort": ""
+                    },
+                    {
+                        "image": "http://www.51mkf.com/data/upload/mobile/special/s0/s0_05839276167411850.jpg",
+                        "type": "keyword",
+                        "data": "移动电源",
+                        "sort": ""
+                    },
+                    {
+                        "image": "http://www.51mkf.com/data/upload/mobile/special/s0/s0_05839276307879784.jpg",
+                        "type": "keyword",
+                        "data": "拍照配件",
+                        "sort": ""
+                    }
+                ],
+                "sort": "1"
+            }
+        },
+        {
+            "goods": {//配件 大全下面的12个图片
+                "title": "",
+                "item": [
+                    {
+                        "goods_id": "106350",
+                        "goods_name": "品胜（PISEN）20000毫安 移动电源/充电宝大容量 双USB输出 液晶数显 LCD电库二代 魔幻黑 适用于苹果/安卓",
+                        "goods_price": "99.00",
+                        "goods_promotion_type": "0",
+                        "goods_promotion_price": "99.00",
+                        "goods_image": "http://www.51mkf.com/data/upload/shop/store/goods/3/2018/04/3_05774710798113567_360.jpg"
+                    },
+                    {
+                        "goods_id": "106499",
+                        "goods_name": "爱国者（aigo）T20000充电宝移动电源便携/ 双USB输出聚合物适用于苹果小米华为 白色 20000毫安",
+                        "goods_price": "109.00",
+                        "goods_promotion_type": "0",
+                        "goods_promotion_price": "109.00",
+                        "goods_image": "http://www.51mkf.com/data/upload/shop/store/goods/3/2018/04/3_05775590233837231_360.jpg"
+                    },
+                    {
+                        "goods_id": "105149",
+                        "goods_name": "dostyle HS301入耳式金属耳机手机/PC适用 香槟金 HS310金属耳机",
+                        "goods_price": "79.00",
+                        "goods_promotion_type": "0",
+                        "goods_promotion_price": "79.00",
+                        "goods_image": "http://www.51mkf.com/data/upload/shop/store/goods/3/2018/04/3_05767755962737225_360.jpg"
+                    },
+                    {
+                        "goods_id": "113267",
+                        "goods_name": "缤特力（Plantronics）ML15 商务单耳蓝牙耳机 通用型 耳挂式 黑色",
+                        "goods_price": "99.00",
+                        "goods_promotion_type": "0",
+                        "goods_promotion_price": "99.00",
+                        "goods_image": "http://www.51mkf.com/data/upload/shop/store/goods/3/2018/06/3_05818789836839055_360.jpg"
+                    },
+                    {
+                        "goods_id": "104757",
+                        "goods_name": "苹果官方MFI认证 苹果数据线6/5s/7手机快充充电器线USB电源线 Anker正品 白色 0.9米",
+                        "goods_price": "39.90",
+                        "goods_promotion_type": "0",
+                        "goods_promotion_price": "39.90",
+                        "goods_image": "http://www.51mkf.com/data/upload/shop/store/goods/3/2018/04/3_05765266774474656_360.jpg"
+                    },
+                    {
+                        "goods_id": "102854",
+                        "goods_name": "浦诺菲彩面Micro-5Pin数据充电连接线 蓝色 5Pin",
+                        "goods_price": "39.00",
+                        "goods_promotion_type": "0",
+                        "goods_promotion_price": "39.00",
+                        "goods_image": "http://www.51mkf.com/data/upload/shop/store/goods/1/2017/05/1_05485211727408911_360.jpg"
+                    },
+                    {
+                        "goods_id": "105184",
+                        "goods_name": "Capshi 苹果充电器 2.4A双口USB手机充电头+数据线1.2米锌合金黑 iphone5/5s/6/6s/Plus/7/8/X/iPad/Air/Pro",
+                        "goods_price": "49.90",
+                        "goods_promotion_type": "0",
+                        "goods_promotion_price": "49.90",
+                        "goods_image": "http://www.51mkf.com/data/upload/shop/store/goods/3/2018/04/3_05767810104455154_360.jpg"
+                    },
+                    {
+                        "goods_id": "102588",
+                        "goods_name": "罗马仕（ROMOSS）AC12S双USB 适配器快充2.1A 手机/平板/移动电源通用插头 可换插脚旅行充电器",
+                        "goods_price": "39.00",
+                        "goods_promotion_type": "0",
+                        "goods_promotion_price": "39.00",
+                        "goods_image": "http://www.51mkf.com/data/upload/shop/store/goods/3/2017/09/3_05591359993235809_360.jpg"
+                    },
+                    {
+                        "goods_id": "114550",
+                        "goods_name": "飞利浦 线控自拍杆 自拍神器 苹果、华为、三星等通用 DLK36003L 黑色",
+                        "goods_price": "49.90",
+                        "goods_promotion_type": "0",
+                        "goods_promotion_price": "49.90",
+                        "goods_image": "http://www.51mkf.com/data/upload/shop/store/goods/3/2018/06/3_05833420166803364_360.jpg"
+                    },
+                    {
+                        "goods_id": "106876",
+                        "goods_name": "Anker安克 铝合金边框 苹果智能手机快速无线充电器适用新iPhone8/8plus/iPhoneX 10",
+                        "goods_price": "198.00",
+                        "goods_promotion_type": "0",
+                        "goods_promotion_price": "198.00",
+                        "goods_image": "http://www.51mkf.com/data/upload/shop/store/goods/3/2018/04/3_05779041687569582_360.jpg"
+                    },
+                    {
+                        "goods_id": "110009",
+                        "goods_name": "MaxMco 桌面手机支架 W013 创意可调节多功能懒人直播支架 可折叠便携手机托手机座 ipad手机平板通用 银色",
+                        "goods_price": "39.00",
+                        "goods_promotion_type": "0",
+                        "goods_promotion_price": "39.00",
+                        "goods_image": "http://www.51mkf.com/data/upload/shop/store/goods/3/2018/05/3_05797103910220535_360.jpg"
+                    },
+                    {
+                        "goods_id": "101314",
+                        "goods_name": "唱吧 C1 麦克风 经典款 /手机电脑麦克风/全民K歌通用/主播直播专用话筒/苹果+安卓电容麦/音响电脑K歌 金色",
+                        "goods_price": "189.00",
+                        "goods_promotion_type": "0",
+                        "goods_promotion_price": "189.00",
+                        "goods_image": "http://www.51mkf.com/data/upload/shop/store/goods/3/2017/06/3_05517922770079658_360.jpg"
+                    }
+                ],
+                "sort": "2"
+            }
+        },
+        {
+            "home1": {//智能家电
+                "title": "",
+                "app_type": "0",
+                "image": "http://www.51mkf.com/data/upload/mobile/special/s0/s0_05839308178081626.jpg",
+                "type": "",
+                "data": ""
+            }
+        },
+        {
+            "home1": {//智能家电大图
+                "title": "",
+                "app_type": "0",
+                "image": "http://www.51mkf.com/data/upload/mobile/special/s0/s0_05838689685369372.jpg",
+                "type": "url",
+                "data": "http://www.51mkf.com/wap/tmpl/product_list.html?gc_id=308"
+            }
+        },
+        {
+            "goods": {//智能家电大图8个图片
+                "title": "",
+                "item": [
+                    {
+                        "goods_id": "115742",
+                        "goods_name": "京造 小风扇便携迷你手持电风扇 USB充电静音风扇",
+                        "goods_price": "57.00",
+                        "goods_promotion_type": "0",
+                        "goods_promotion_price": "57.00",
+                        "goods_image": "http://www.51mkf.com/data/upload/shop/store/goods/3/2018/07/3_05845469910829166_360.jpg"
+                    },
+                    {
+                        "goods_id": "109218",
+                        "goods_name": "沙宣（VS）电吹风机家用 时尚造型吹风筒VS908PCN",
+                        "goods_price": "99.00",
+                        "goods_promotion_type": "0",
+                        "goods_promotion_price": "99.00",
+                        "goods_image": "http://www.51mkf.com/data/upload/shop/store/goods/3/2018/05/3_05791885680477809_360.jpg"
+                    },
+                    {
+                        "goods_id": "105214",
+                        "goods_name": "九阳（Joyoung）料理机 家用可榨汁 搅拌 碎冰 干磨 多杯体 JYL-C020E",
+                        "goods_price": "158.00",
+                        "goods_promotion_type": "0",
+                        "goods_promotion_price": "158.00",
+                        "goods_image": "http://www.51mkf.com/data/upload/shop/store/goods/3/2018/04/3_05768406806323327_360.jpg"
+                    },
+                    {
+                        "goods_id": "105992",
+                        "goods_name": "美的（Midea）MG25NF-AD二代 家用多功能电烤箱 25升 旋转烧烤",
+                        "goods_price": "219.00",
+                        "goods_promotion_type": "0",
+                        "goods_promotion_price": "219.00",
+                        "goods_image": "http://www.51mkf.com/data/upload/shop/store/goods/3/2018/04/3_05773674816267284_360.jpg"
+                    },
+                    {
+                        "goods_id": "108046",
+                        "goods_name": "小熊（Bear）养生壶全自动玻璃加厚电热水壶花茶壶煮茶器黑茶煮茶壶多功能 YSH-B18T1 1.5L",
+                        "goods_price": "119.00",
+                        "goods_promotion_type": "0",
+                        "goods_promotion_price": "119.00",
+                        "goods_image": "http://www.51mkf.com/data/upload/shop/store/goods/3/2018/05/3_05785753260279467_360.jpg"
+                    },
+                    {
+                        "goods_id": "119647",
+                        "goods_name": "康佳（KONKA）电磁炉整版触摸式家用智能大火力磁炉 KEO-21CS62CB",
+                        "goods_price": "149.00",
+                        "goods_promotion_type": "0",
+                        "goods_promotion_price": "149.00",
+                        "goods_image": "http://www.51mkf.com/data/upload/shop/store/goods/3/2018/08/3_05889412013431950_360.jpg"
+                    },
+                    {
+                        "goods_id": "109175",
+                        "goods_name": "德尔玛（Deerma）加湿器 4L大容量 上加水智能恒湿 静音迷你办公室卧室家用香薰加湿 DEM-ST900S（象牙白）",
+                        "goods_price": "199.00",
+                        "goods_promotion_type": "0",
+                        "goods_promotion_price": "199.00",
+                        "goods_image": "http://www.51mkf.com/data/upload/shop/store/goods/3/2018/05/3_05791779313523213_360.jpg"
+                    },
+                    {
+                        "goods_id": "108267",
+                        "goods_name": "公牛（BULL）GN-H3053 抗电涌抗浪涌插座/插线板/插排/排插/接线板/拖线板 5位分控全长3米 保护智能电器",
+                        "goods_price": "136.00",
+                        "goods_promotion_type": "0",
+                        "goods_promotion_price": "136.00",
+                        "goods_image": "http://www.51mkf.com/data/upload/shop/store/goods/3/2018/05/3_05786566016619714_360.jpg"
+                    }
+                ],
+                "sort": "2"
+            }
+        },
+        {
+            "home1": {//食品酒水
+                "title": "",
+                "app_type": "0",
+                "image": "http://www.51mkf.com/data/upload/mobile/special/s0/s0_05838673160278051.jpg",
+                "type": "keyword",
+                "data": "食品酒水"
+            }
+        },
+        {
+            "home1": {//食品酒水大图
+                "title": "",
+                "app_type": "0",
+                "image": "http://www.51mkf.com/data/upload/mobile/special/s0/s0_05836077577695982.jpg",
+                "type": "keyword",
+                "data": "食品酒水"
+            }
+        },
+        {
+            "goods": {//食品酒水10个图片
+                "title": "",
+                "item": [
+                    {
+                        "goods_id": "106928",
+                        "goods_name": "卫龙 休闲零食 大面筋辣条112g/袋 大包装 辣条 辣片 怀旧零食小吃",
+                        "goods_price": "3.90",
+                        "goods_promotion_type": "0",
+                        "goods_promotion_price": "3.90",
+                        "goods_image": "http://www.51mkf.com/data/upload/shop/store/goods/3/2018/04/3_05779722995334969_360.jpg"
+                    },
+                    {
+                        "goods_id": "106962",
+                        "goods_name": "旺旺 休闲膨化零食 小小酥 原味 200g",
+                        "goods_price": "11.70",
+                        "goods_promotion_type": "0",
+                        "goods_promotion_price": "11.70",
+                        "goods_image": "http://www.51mkf.com/data/upload/shop/store/goods/3/2018/04/3_05779884158166319_360.jpg"
+                    },
+                    {
+                        "goods_id": "113487",
+                        "goods_name": "德国进口 凯尔特人（Barbarossa）啤酒礼盒 小麦 500ml*12听 精酿醇香 回味甘爽",
+                        "goods_price": "79.00",
+                        "goods_promotion_type": "0",
+                        "goods_promotion_price": "79.00",
+                        "goods_image": "http://www.51mkf.com/data/upload/shop/store/goods/3/2018/06/3_05821395676502978_360.jpg"
+                    },
+                    {
+                        "goods_id": "113481",
+                        "goods_name": "1664啤酒 白啤酒 瓶装 330ml*24瓶 整箱装",
+                        "goods_price": "279.00",
+                        "goods_promotion_type": "0",
+                        "goods_promotion_price": "279.00",
+                        "goods_image": "http://www.51mkf.com/data/upload/shop/store/goods/3/2018/06/3_05821384320414874_360.jpg"
+                    },
+                    {
+                        "goods_id": "104363",
+                        "goods_name": "西班牙原瓶进口红酒 爱之湾桃红谜蓝晶白莫斯卡托缤纷三支装甜起泡气泡葡萄酒组合750ml*3瓶 爱之湾缤纷组合",
+                        "goods_price": "109.00",
+                        "goods_promotion_type": "0",
+                        "goods_promotion_price": "109.00",
+                        "goods_image": "http://www.51mkf.com/data/upload/shop/store/goods/3/2018/03/3_05748573749800940_360.jpg"
+                    },
+                    {
+                        "goods_id": "104659",
+                        "goods_name": "三只松鼠 坚果零食礼盒 夏威夷果碧根果巴旦木核桃 坚果大礼包火红A 1493g",
+                        "goods_price": "118.00",
+                        "goods_promotion_type": "0",
+                        "goods_promotion_price": "118.00",
+                        "goods_image": "http://www.51mkf.com/data/upload/shop/store/goods/3/2018/03/3_05756481534684147_360.jpg"
+                    },
+                    {
+                        "goods_id": "104859",
+                        "goods_name": "伊利 味可滋巧克力牛奶240ml*12盒/礼盒装 emoji版",
+                        "goods_price": "50.90",
+                        "goods_promotion_type": "0",
+                        "goods_promotion_price": "50.90",
+                        "goods_image": "http://www.51mkf.com/data/upload/shop/store/goods/3/2018/04/3_05766664465264641_360.jpg"
+                    },
+                    {
+                        "goods_id": "104851",
+                        "goods_name": "【24盒装】蒙牛 纯甄 常温酸牛奶 200g*24 礼盒装",
+                        "goods_price": "89.90",
+                        "goods_promotion_type": "0",
+                        "goods_promotion_price": "89.90",
+                        "goods_image": "http://www.51mkf.com/data/upload/shop/store/goods/3/2018/04/3_05766105765954678_360.jpg"
+                    },
+                    {
+                        "goods_id": "104737",
+                        "goods_name": "屈臣氏（Watsons）蜂蜜橙花风味饮料 400ml*12瓶 整箱装",
+                        "goods_price": "42.00",
+                        "goods_promotion_type": "0",
+                        "goods_promotion_price": "42.00",
+                        "goods_image": "http://www.51mkf.com/data/upload/shop/store/goods/3/2018/04/3_05765190180721742_360.jpg"
+                    },
+                    {
+                        "goods_id": "104761",
+                        "goods_name": "怡宝 纯净水 555ml*24 整箱装 （华润怡宝出品 饮用水）",
+                        "goods_price": "35.90",
+                        "goods_promotion_type": "0",
+                        "goods_promotion_price": "35.90",
+                        "goods_image": "http://www.51mkf.com/data/upload/shop/store/goods/3/2018/04/3_05765275492351952_360.jpg"
+                    }
+                ],
+                "sort": "2"
+            }
+        },
+        {
+            "home1": {//母婴用品
+                "title": "",
+                "app_type": "0",
+                "image": "http://www.51mkf.com/data/upload/mobile/special/s0/s0_05838678458402596.jpg",
+                "type": "",
+                "data": ""
+            }
+        },
+        {
+            "home1": {//母婴用品大图
+                "title": "",
+                "app_type": "0",
+                "image": "http://www.51mkf.com/data/upload/mobile/special/s0/s0_05836086931444959.jpg",
+                "type": "keyword",
+                "data": "母婴用品"
+            }
+        },
+        {
+            "goods": {//母婴用品10个图片
+                "title": "",
+                "item": [
+                    {
+                        "goods_id": "106109",
+                        "goods_name": "好奇 Huggies 金装 纸尿裤 XXL28片 特大号尿不湿【15kg以上】",
+                        "goods_price": "69.00",
+                        "goods_promotion_type": "0",
+                        "goods_promotion_price": "69.00",
+                        "goods_image": "http://www.51mkf.com/data/upload/shop/store/goods/3/2018/04/3_05773863744039076_360.jpg"
+                    },
+                    {
+                        "goods_id": "104133",
+                        "goods_name": "菲比(Fitti)纸尿裤 大号尿不湿 秒吸舒爽 L162片【9-14KG】",
+                        "goods_price": "145.00",
+                        "goods_promotion_type": "0",
+                        "goods_promotion_price": "145.00",
+                        "goods_image": "http://www.51mkf.com/data/upload/shop/store/goods/3/2018/03/3_05735838333256875_360.jpg"
+                    },
+                    {
+                        "goods_id": "106216",
+                        "goods_name": "贝亲（Pigeon）宽口径玻璃奶瓶 160ml AA72（绿色）",
+                        "goods_price": "77.50",
+                        "goods_promotion_type": "0",
+                        "goods_promotion_price": "77.50",
+                        "goods_image": "http://www.51mkf.com/data/upload/shop/store/goods/3/2018/04/3_05774521704948979_360.jpg"
+                    },
+                    {
+                        "goods_id": "106180",
+                        "goods_name": "贝亲（Pigeon）自然实感宽口径奶嘴（SS）BA57（盒装）",
+                        "goods_price": "21.50",
+                        "goods_promotion_type": "0",
+                        "goods_promotion_price": "21.50",
+                        "goods_image": "http://www.51mkf.com/data/upload/shop/store/goods/3/2018/04/3_05774489383410124_360.jpg"
+                    },
+                    {
+                        "goods_id": "105899",
+                        "goods_name": "好奇 Huggies 婴儿棉柔巾非湿巾 80抽6包装 （干湿两用）",
+                        "goods_price": "78.00",
+                        "goods_promotion_type": "0",
+                        "goods_promotion_price": "78.00",
+                        "goods_image": "http://www.51mkf.com/data/upload/shop/store/goods/3/2018/04/3_05773587053970722_360.jpg"
+                    },
+                    {
+                        "goods_id": "104121",
+                        "goods_name": "帮宝适（Pampers）超薄干爽 婴儿拉拉裤 大号L120片【9-14kg】尿不湿",
+                        "goods_price": "146.00",
+                        "goods_promotion_type": "0",
+                        "goods_promotion_price": "146.00",
+                        "goods_image": "http://www.51mkf.com/data/upload/shop/store/goods/3/2018/03/3_05732327061860390_360.jpg"
+                    },
+                    {
+                        "goods_id": "106427",
+                        "goods_name": "贝亲（Pigeon）婴儿润肤油 200ml IA106",
+                        "goods_price": "31.90",
+                        "goods_promotion_type": "0",
+                        "goods_promotion_price": "31.90",
+                        "goods_image": "http://www.51mkf.com/data/upload/shop/store/goods/3/2018/04/3_05775379845729475_360.jpg"
+                    },
+                    {
+                        "goods_id": "106718",
+                        "goods_name": "【德国原装进口】施巴(Sebamed)婴儿沐浴露 儿童沐浴露泡泡沐浴露洗护二合一沐浴液500ml",
+                        "goods_price": "129.00",
+                        "goods_promotion_type": "0",
+                        "goods_promotion_price": "129.00",
+                        "goods_image": "http://www.51mkf.com/data/upload/shop/store/goods/3/2018/04/3_05778820526983199_360.jpg"
+                    },
+                    {
+                        "goods_id": "106674",
+                        "goods_name": "【日本原装进口】贝亲（Pigeon）小儿发烧退热贴（12片装）",
+                        "goods_price": "69.00",
+                        "goods_promotion_type": "0",
+                        "goods_promotion_price": "69.00",
+                        "goods_image": "http://www.51mkf.com/data/upload/shop/store/goods/3/2018/04/3_05778205096617406_360.jpg"
+                    },
+                    {
+                        "goods_id": "106398",
+                        "goods_name": "贝亲（Pigeon）手动 吸奶器 QA31（新睿双效）",
+                        "goods_price": "150.00",
+                        "goods_promotion_type": "0",
+                        "goods_promotion_price": "150.00",
+                        "goods_image": "http://www.51mkf.com/data/upload/shop/store/goods/3/2018/04/3_05775331465557889_360.jpg"
+                    }
+                ],
+                "sort": "2"
+            }
+        },
+        {
+            "home1": {//日用百货
+                "title": "",
+                "app_type": "0",
+                "image": "http://www.51mkf.com/data/upload/mobile/special/s0/s0_05838683108844319.jpg",
+                "type": "",
+                "data": ""
+            }
+        },
+        {
+            "home1": {//日用百货大图
+                "title": "",
+                "app_type": "0",
+                "image": "http://www.51mkf.com/data/upload/mobile/special/s0/s0_05838681771514960.jpg",
+                "type": "keyword",
+                "data": "日用百货"
+            }
+        },
+        {
+            "goods": {//日用百货14图片
+                "title": "",
+                "item": [
+                    {
+                        "goods_id": "108029",
+                        "goods_name": "洁柔（C&S）抽纸 粉Face 柔韧3层120抽面巾纸*20包 无香(M号纸巾 整箱销售 面子系列可湿水 婴儿可用)",
+                        "goods_price": "52.90",
+                        "goods_promotion_type": "0",
+                        "goods_promotion_price": "52.90",
+                        "goods_image": "http://www.51mkf.com/data/upload/shop/store/goods/3/2018/05/3_05785741142674595_360.jpg"
+                    },
+                    {
+                        "goods_id": "110530",
+                        "goods_name": "洁柔（C&S）无芯卷纸 自然木黄色纸 加厚4层84g卫生纸*36卷（整箱销售 母婴可用实芯卷纸 低白度纸巾）",
+                        "goods_price": "49.90",
+                        "goods_promotion_type": "0",
+                        "goods_promotion_price": "49.90",
+                        "goods_image": "http://www.51mkf.com/data/upload/shop/store/goods/3/2018/05/3_05798823385379987_360.jpg"
+                    },
+                    {
+                        "goods_id": "117963",
+                        "goods_name": "榄菊 无香清纯电热蚊香液 驱蚊液 电蚊香 电蚊液 无香200晚+加热器",
+                        "goods_price": "29.90",
+                        "goods_promotion_type": "3",
+                        "goods_promotion_price": "29.90",
+                        "goods_image": "http://www.51mkf.com/data/upload/shop/store/goods/3/2018/08/3_05871211473264167_360.jpg"
+                    },
+                    {
+                        "goods_id": "118347",
+                        "goods_name": "立白 茶籽洗洁精双瓶省心装 1.45kg*2瓶",
+                        "goods_price": "23.90",
+                        "goods_promotion_type": "0",
+                        "goods_promotion_price": "23.90",
+                        "goods_image": "http://www.51mkf.com/data/upload/shop/store/goods/3/2018/08/3_05876577686820369_360.jpg"
+                    },
+                    {
+                        "goods_id": "107542",
+                        "goods_name": "奥妙 洗衣液 16斤超值深层洁净套装(3kg×2+1kg×2) 源自天然酵素",
+                        "goods_price": "94.90",
+                        "goods_promotion_type": "0",
+                        "goods_promotion_price": "94.90",
+                        "goods_image": "http://www.51mkf.com/data/upload/shop/store/goods/3/2018/04/3_05782270910135140_360.jpg"
+                    },
+                    {
+                        "goods_id": "118174",
+                        "goods_name": "雅高 垃圾桶家用 不锈钢脚踏翻盖卫生桶 8L",
+                        "goods_price": "49.90",
+                        "goods_promotion_type": "0",
+                        "goods_promotion_price": "49.90",
+                        "goods_image": "http://www.51mkf.com/data/upload/shop/store/goods/3/2018/08/3_05872370788029504_360.jpg"
+                    },
+                    {
+                        "goods_id": "119643",
+                        "goods_name": "佳佰 加厚背心垃圾袋 50*65CM垃圾桶袋清洁纸篓袋塑料袋 (180只）",
+                        "goods_price": "38.00",
+                        "goods_promotion_type": "0",
+                        "goods_promotion_price": "38.00",
+                        "goods_image": "http://www.51mkf.com/data/upload/shop/store/goods/3/2018/08/3_05889397888651819_360.jpg"
+                    },
+                    {
+                        "goods_id": "105188",
+                        "goods_name": "美度 24骨超大男士商务长柄晴雨伞 M5003蓝色",
+                        "goods_price": "39.00",
+                        "goods_promotion_type": "3",
+                        "goods_promotion_price": "39.00",
+                        "goods_image": "http://www.51mkf.com/data/upload/shop/store/goods/3/2018/04/3_05768373388524002_360.jpg"
+                    },
+                    {
+                        "goods_id": "111360",
+                        "goods_name": "茶花 塑料收纳箱 提把多格保健药箱小药盒子 4.8L 2606",
+                        "goods_price": "59.00",
+                        "goods_promotion_type": "0",
+                        "goods_promotion_price": "59.00",
+                        "goods_image": "http://www.51mkf.com/data/upload/shop/store/goods/3/2018/05/3_05804723054924357_360.jpg"
+                    },
+                    {
+                        "goods_id": "119782",
+                        "goods_name": "妙洁 一次性杯子塑料杯 加厚240ml中号100只装",
+                        "goods_price": "12.90",
+                        "goods_promotion_type": "0",
+                        "goods_promotion_price": "12.90",
+                        "goods_image": "http://www.51mkf.com/data/upload/shop/store/goods/3/2018/09/3_05892858903398191_360.jpg"
+                    },
+                    {
+                        "goods_id": "105668",
+                        "goods_name": "尚烤佳 烧烤炉 不锈钢烧烤架 户外便携木炭烤炉 烤肉架 煎烤炉 烧烤箱大号",
+                        "goods_price": "198.00",
+                        "goods_promotion_type": "0",
+                        "goods_promotion_price": "198.00",
+                        "goods_image": "http://www.51mkf.com/data/upload/shop/store/goods/3/2018/04/3_05772151317036389_360.jpg"
+                    },
+                    {
+                        "goods_id": "108320",
+                        "goods_name": "欧橡OAK 欧式调味瓶调味盒厨房调料盒亚克力调料罐调味罐套装盐罐 C020",
+                        "goods_price": "49.90",
+                        "goods_promotion_type": "0",
+                        "goods_promotion_price": "49.90",
+                        "goods_image": "http://www.51mkf.com/data/upload/shop/store/goods/3/2018/05/3_05786635039850895_360.jpg"
+                    },
+                    {
+                        "goods_id": "110637",
+                        "goods_name": "威路 20英寸蓝色拉杆箱 男女轻盈万向轮登机箱出国大号密码锁静音皮箱",
+                        "goods_price": "209.00",
+                        "goods_promotion_type": "0",
+                        "goods_promotion_price": "209.00",
+                        "goods_image": "http://www.51mkf.com/data/upload/shop/store/goods/3/2018/05/3_05799524002212235_360.jpg"
+                    },
+                    {
+                        "goods_id": "111229",
+                        "goods_name": "维多利亚旅行者VICTORIATOURIST电脑包15.6英寸手提笔记本电脑包单肩包公文包V7011黑色",
+                        "goods_price": "89.00",
+                        "goods_promotion_type": "0",
+                        "goods_promotion_price": "89.00",
+                        "goods_image": "http://www.51mkf.com/data/upload/shop/store/goods/3/2018/05/3_05803903218123176_360.jpg"
+                    }
+                ],
+                "sort": "2"
+            }
+        },
+        {
+            "home1": {//洗护美妆
+                "title": "",
+                "app_type": "0",
+                "image": "http://www.51mkf.com/data/upload/mobile/special/s0/s0_05838687433969375.jpg",
+                "type": "url",
+                "data": "http://www.51mkf.com/shop/cate-1184-0-0-0-0-0-0-0-0-0-0.html"
+            }
+        },
+        {
+            "home1": {//洗护美妆大图
+                "title": "",
+                "app_type": "0",
+                "image": "http://www.51mkf.com/data/upload/mobile/special/s0/s0_05838686749233969.jpg",
+                "type": "url",
+                "data": "http://www.51mkf.com/shop/cate-1184-0-0-0-0-0-0-0-0-0-0.html"
+            }
+        },
+        {
+            "goods": {//洗护美妆8个图片
+                "title": "",
+                "item": [
+                    {
+                        "goods_id": "112283",
+                        "goods_name": "妮维雅(NIVEA)冰爽透明防晒气雾200ml（防晒喷雾 户外SPF50 德国进口 男女护肤适用） 冰爽防晒",
+                        "goods_price": "139.00",
+                        "goods_promotion_type": "0",
+                        "goods_promotion_price": "139.00",
+                        "goods_image": "http://www.51mkf.com/data/upload/shop/store/goods/3/2018/05/3_05810992279387280_360.jpg"
+                    },
+                    {
+                        "goods_id": "104667",
+                        "goods_name": "欧莱雅 LOREAL 三合一卸妆洁颜水 清爽型 400ml（欧莱雅女士 魔术水 卸妆水 洁面 保湿）",
+                        "goods_price": "129.00",
+                        "goods_promotion_type": "0",
+                        "goods_promotion_price": "129.00",
+                        "goods_image": "http://www.51mkf.com/data/upload/shop/store/goods/3/2018/03/3_05756492299425189_360.jpg"
+                    },
+                    {
+                        "goods_id": "116234",
+                        "goods_name": "御泥坊男士 火山泥清洁控油洁面乳150g（洗面奶100g+50g）（男士洗面奶 护肤 控油去角质 改善黑头） 火山泥控油洁面乳150g",
+                        "goods_price": "29.90",
+                        "goods_promotion_type": "0",
+                        "goods_promotion_price": "29.90",
+                        "goods_image": "http://www.51mkf.com/data/upload/shop/store/goods/3/2018/07/3_05852242308143316_360.jpg"
+                    },
+                    {
+                        "goods_id": "110021",
+                        "goods_name": "理肤泉(LA ROCHE-POSAY)B5多效修复霜40ml(B5万能霜 祛痘淡印修护补水保湿面霜 法国原装进口)",
+                        "goods_price": "119.00",
+                        "goods_promotion_type": "0",
+                        "goods_promotion_price": "119.00",
+                        "goods_image": "http://www.51mkf.com/data/upload/shop/store/goods/3/2018/05/3_05797111814026633_360.jpg"
+                    },
+                    {
+                        "goods_id": "116958",
+                        "goods_name": "沙宣洗发水光感莹润750ml（洗发露） 光感莹润洗750ml",
+                        "goods_price": "59.80",
+                        "goods_promotion_type": "0",
+                        "goods_promotion_price": "59.80",
+                        "goods_image": "http://www.51mkf.com/data/upload/shop/store/goods/3/2018/07/3_05863720896835581_360.jpg"
+                    },
+                    {
+                        "goods_id": "111813",
+                        "goods_name": "力士(LUX)沐浴露 茉莉臻芳 爽肤沐浴乳1000g(新老包装随机发货) 茉莉臻芳",
+                        "goods_price": "29.90",
+                        "goods_promotion_type": "0",
+                        "goods_promotion_price": "29.90",
+                        "goods_image": "http://www.51mkf.com/data/upload/shop/store/goods/3/2018/05/3_05808991222505415_360.jpg"
+                    },
+                    {
+                        "goods_id": "114391",
+                        "goods_name": "沙宣造型泡沫摩丝强力持久造型250ml（发蜡 发泥 发胶 啫喱水 定型喷雾）",
+                        "goods_price": "33.90",
+                        "goods_promotion_type": "0",
+                        "goods_promotion_price": "33.90",
+                        "goods_image": "http://www.51mkf.com/data/upload/shop/store/goods/3/2018/06/3_05832417733852323_360.jpg"
+                    },
+                    {
+                        "goods_id": "109962",
+                        "goods_name": "高露洁（Colgate） 360° 全面口腔健康 备长炭深洁 牙膏套装 180g×4 （随机赠送Joy杯）",
+                        "goods_price": "99.00",
+                        "goods_promotion_type": "0",
+                        "goods_promotion_price": "99.00",
+                        "goods_image": "http://www.51mkf.com/data/upload/shop/store/goods/3/2018/05/3_05797076417675399_360.jpg"
+                    }
+                ],
+                "sort": "2"
+            }
+        },
+        {
+            "home1": {//汽车用品
+                "title": "",
+                "app_type": "0",
+                "image": "http://www.51mkf.com/data/upload/mobile/special/s0/s0_05838697778310141.jpg",
+                "type": "",
+                "data": ""
+            }
+        },
+        {
+            "home1": {//汽车用品大图
+                "title": "",
+                "app_type": "0",
+                "image": "http://www.51mkf.com/data/upload/mobile/special/s0/s0_05838691647784126.jpg",
+                "type": "keyword",
+                "data": "汽车用品"
+            }
+        },
+        {
+            "goods": {//汽车用品列表
+                "title": "",
+                "item": [
+                    {
+                        "goods_id": "106673",
+                        "goods_name": "嘉实多（Castrol） 极护 钛流体全合成机油 5W-40 A3/B4 SN/CF级 4L",
+                        "goods_price": "329.00",
+                        "goods_promotion_type": "0",
+                        "goods_promotion_price": "329.00",
+                        "goods_image": "http://www.51mkf.com/data/upload/shop/store/goods/3/2018/04/3_05778204193755172_360.jpg"
+                    },
+                    {
+                        "goods_id": "104004",
+                        "goods_name": "车仆（Chief）0001 汽车玻璃水汽车玻璃清洗剂 浓缩雨刮精芳香雨刷精12支装",
+                        "goods_price": "29.90",
+                        "goods_promotion_type": "0",
+                        "goods_promotion_price": "29.90",
+                        "goods_image": "http://www.51mkf.com/data/upload/shop/store/goods/3/2018/02/3_05716613099704980_360.jpg"
+                    },
+                    {
+                        "goods_id": "103968",
+                        "goods_name": "爱丽思（IRIS) 汽车收纳箱储物箱 RV600双盖 40升 PP树脂材料 土黄/黑色",
+                        "goods_price": "129.00",
+                        "goods_promotion_type": "0",
+                        "goods_promotion_price": "129.00",
+                        "goods_image": "http://www.51mkf.com/data/upload/shop/store/goods/3/2018/02/3_05714010856658935_360.jpg"
+                    },
+                    {
+                        "goods_id": "108375",
+                        "goods_name": "香百年 汽车香水 金巴黎Ⅱ代 车载车用香水座香薰摆件 醉红 金色 Carori",
+                        "goods_price": "89.00",
+                        "goods_promotion_type": "0",
+                        "goods_promotion_price": "89.00",
+                        "goods_image": "http://www.51mkf.com/data/upload/shop/store/goods/3/2018/05/3_05786740923425358_360.jpg"
+                    },
+                    {
+                        "goods_id": "106453",
+                        "goods_name": "亿色（ESR）车载手机支架 出风口重力支架 适用4.0-6.2英寸手机汽车支架通用款-魔力黑",
+                        "goods_price": "45.90",
+                        "goods_promotion_type": "0",
+                        "goods_promotion_price": "45.90",
+                        "goods_image": "http://www.51mkf.com/data/upload/shop/store/goods/3/2018/04/3_05775479716727084_360.jpg"
+                    },
+                    {
+                        "goods_id": "105065",
+                        "goods_name": "任e行D3双镜头行车记录仪高清夜视1080P倒车影像一体机",
+                        "goods_price": "199.00",
+                        "goods_promotion_type": "0",
+                        "goods_promotion_price": "199.00",
+                        "goods_image": "http://www.51mkf.com/data/upload/shop/store/goods/3/2018/04/3_05767609223109251_360.jpg"
+                    },
+                    {
+                        "goods_id": "103984",
+                        "goods_name": "先科（SAST）车载充电器 车充点烟器 AY-T52S灰色 3.4A双USB一拖二 电压检测LED数显 带伸缩数据线",
+                        "goods_price": "55.00",
+                        "goods_promotion_type": "0",
+                        "goods_promotion_price": "55.00",
+                        "goods_image": "http://www.51mkf.com/data/upload/shop/store/goods/3/2018/02/3_05714253580115039_360.jpg"
+                    },
+                    {
+                        "goods_id": "105315",
+                        "goods_name": "海尔（Haier）KJBA03-25 海尔Q4S车载空气净化器汽车车载空气净化器 自动检测除甲醛异味雾霾PM2.5负离子氧吧",
+                        "goods_price": "269.00",
+                        "goods_promotion_type": "0",
+                        "goods_promotion_price": "269.00",
+                        "goods_image": "http://www.51mkf.com/data/upload/shop/store/goods/3/2018/04/3_05768618380243238_360.jpg"
+                    }
+                ],
+                "sort": "2"
+            }
+        },
+        {
+            "video_list": {
+                "video_isuse": "1",
+                "wap_display": 0,
+                "video_modules_name": "M直播",
+                "video_modules_logo": "http://www.51mkf.com/data/upload/shop/common/",
+                "item": [
+                    {
+                        "cate_id": "1",
+                        "cate_name": "手机",
+                        "type_id": "0",
+                        "type_name": "",
+                        "cate_parent_id": "0",
+                        "cate_sort": "1",
+                        "cate_image": "http://www.51mkf.com/data/upload/mobile/video_category/05443824395130341.jpg",
+                        "cate_description": "各类手机评测等",
+                        "is_recommend": "1"
+                    },
+                    {
+                        "cate_id": "2",
+                        "cate_name": "趣玩",
+                        "type_id": "0",
+                        "type_name": "",
+                        "cate_parent_id": "0",
+                        "cate_sort": "2",
+                        "cate_image": "http://www.51mkf.com/data/upload/mobile/video_category/05443824217014881.jpg",
+                        "cate_description": "各种有趣的事物玩法",
+                        "is_recommend": "1"
+                    }
+                ]
+            }
+        }
+    ]
+}

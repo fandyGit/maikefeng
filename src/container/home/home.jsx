@@ -25,8 +25,9 @@ export default class Home extends Component{
     layouti:[],
     layouti1:[],
     layouti2:[],
-    layouti3:[],
-    layouti4:[],
+    layouti3:[],//电脑办公
+    layouti4:[],//智能家电
+    layouti5:[],//食品酒水
 
   }
   componentWillMount(){
@@ -49,6 +50,7 @@ export default class Home extends Component{
           layouti2:result.datas[24]['home3']['item'],
           layouti3:result.datas[25]['goods']['item'],
           layouti4:result.datas[28]['goods']['item'],
+          layouti5:result.datas[31]['goods']['item'],
         })
       }
     })
@@ -61,7 +63,8 @@ export default class Home extends Component{
   }
   render(){
     const {banners,layoutc,layoutd,layoute,layoutf,layoutg,layouth1,
-      layouth2,layouth3,layouti,layouti1,layouti2,layouti3,layouti4}=this.state;
+      layouth2,layouth3,layouti,layouti1,layouti2,layouti3,layouti4,
+      layouti5,}=this.state;
     return (
       <div>
         <div className='wrapper'>
@@ -142,6 +145,7 @@ export default class Home extends Component{
               </a>
               <Layouti layouti={layouti1}></Layouti>
             </li>
+            {/*电脑办公*/}
             <li>
               <img style={{display:'block',height:'43px'}} className='layout-f' src="http://www.51mkf.com/data/upload/mobile/special/s0/s0_05506778923821440.png" alt=""/>
               <a style={{display:'block',height:'125px'}} href="http://www.51mkf.com/shop/cate-1367-0-0-0-0-0-0-0-0-0-0.html">
@@ -150,12 +154,21 @@ export default class Home extends Component{
               <Layoutg layoutg={layouti2}></Layoutg>
               <Layouti layouti={layouti3}></Layouti>
             </li>
+            {/*智能家电*/}
             <li>
               <img style={{display:'block',height:'43px'}} className='layout-f' src="http://www.51mkf.com/data/upload/mobile/special/s0/s0_05839308178081626.jpg" alt=""/>
               <a style={{display:'block',height:'125px'}} href="http://www.51mkf.com/wap/tmpl/product_list.html?gc_id=308">
                 <img style={{display:'block',height:'125px'}} className='layout-f' src="http://www.51mkf.com/data/upload/mobile/special/s0/s0_05838689685369372.jpg" alt=""/>
               </a>
               <Layouti layouti={layouti4}></Layouti>
+            </li>
+            {/*食品酒水*/}
+            <li>
+              <img style={{display:'block',height:'43px'}} className='layout-f' src="http://www.51mkf.com/data/upload/mobile/special/s0/s0_05838673160278051.jpg" alt=""/>
+              <a style={{display:'block',height:'125px'}} href="###">
+                <img style={{display:'block',height:'125px'}} className='layout-f' src="http://www.51mkf.com/data/upload/mobile/special/s0/s0_05836077577695982.jpg" alt=""/>
+              </a>
+              <Layouti layouti={layouti5}></Layouti>
             </li>
 
           </ul>

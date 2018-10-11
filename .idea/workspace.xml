@@ -20,8 +20,8 @@
       <file leaf-file-name="home.jsx" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/container/home/home.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="241">
-              <caret line="155" column="163" selection-start-line="155" selection-start-column="163" selection-end-line="155" selection-end-column="163" />
+            <state relative-caret-position="242">
+              <caret line="164" column="67" selection-start-line="164" selection-start-column="67" selection-end-line="164" selection-end-column="67" />
               <folding>
                 <element signature="e#0#37#0" expanded="true" />
                 <element signature="e#1377#1470#0" />
@@ -333,12 +333,12 @@
       <workItem from="1539044106768" duration="26349000" />
       <workItem from="1539095853956" duration="1819000" />
       <workItem from="1539130100141" duration="30592000" />
-      <workItem from="1539216881543" duration="10949000" />
+      <workItem from="1539216881543" duration="11402000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="90091000" />
+    <option name="totallyTimeSpent" value="90544000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1378" height="744" extended-state="0" />
@@ -690,8 +690,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/container/home/home.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="155" column="163" selection-start-line="155" selection-start-column="163" selection-end-line="155" selection-end-column="163" />
+        <state relative-caret-position="242">
+          <caret line="164" column="67" selection-start-line="164" selection-start-column="67" selection-end-line="164" selection-end-column="67" />
           <folding>
             <element signature="e#0#37#0" expanded="true" />
             <element signature="e#1377#1470#0" />
