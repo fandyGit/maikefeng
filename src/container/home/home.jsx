@@ -30,6 +30,8 @@ export default class Home extends Component{
     layouti5:[],//食品酒水
     layouti6:[],//母婴专区
     layouti7:[],//日用百货
+    layouti8:[],//美妆洗护
+    layouti9:[],//汽车用品
 
   }
   componentWillMount(){
@@ -55,6 +57,8 @@ export default class Home extends Component{
           layouti5:result.datas[31]['goods']['item'],
           layouti6:result.datas[34]['goods']['item'],
           layouti7:result.datas[37]['goods']['item'],
+          layouti8:result.datas[40]['goods']['item'],
+          layouti9:result.datas[43]['goods']['item'],
         })
       }
     })
@@ -68,7 +72,7 @@ export default class Home extends Component{
   render(){
     const {banners,layoutc,layoutd,layoute,layoutf,layoutg,layouth1,
       layouth2,layouth3,layouti,layouti1,layouti2,layouti3,layouti4,
-      layouti5,layouti6,layouti7}=this.state;
+      layouti5,layouti6,layouti7,layouti8,layouti9}=this.state;
     return (
       <div>
         <div className='wrapper'>
@@ -189,6 +193,22 @@ export default class Home extends Component{
                 <img style={{display:'block',height:'125px'}} className='layout-f' src="http://www.51mkf.com/data/upload/mobile/special/s0/s0_05838681771514960.jpg" alt=""/>
               </a>
               <Layouti layouti={layouti7}></Layouti>
+            </li>
+            {/*美妆洗护*/}
+            <li>
+              <img style={{display:'block',height:'43px'}} className='layout-f' src="http://www.51mkf.com/data/upload/mobile/special/s0/s0_05838687433969375.jpg" alt=""/>
+              <a style={{display:'block',height:'125px'}} href="http://www.51mkf.com/shop/cate-1184-0-0-0-0-0-0-0-0-0-0.html">
+                <img style={{display:'block',height:'125px'}} className='layout-f' src="http://www.51mkf.com/data/upload/mobile/special/s0/s0_05838686749233969.jpg" alt=""/>
+              </a>
+              <Layouti layouti={layouti8}></Layouti>
+            </li>
+            {/*汽车用品*/}
+            <li>
+              <img style={{display:'block',height:'43px'}} className='layout-f' src="http://www.51mkf.com/data/upload/mobile/special/s0/s0_05838697778310141.jpg" alt=""/>
+              <a style={{display:'block',height:'125px'}} href="##">
+                <img style={{display:'block',height:'125px'}} className='layout-f' src="http://www.51mkf.com/data/upload/mobile/special/s0/s0_05838691647784126.jpg" alt=""/>
+              </a>
+              <Layouti layouti={layouti9}></Layouti>
             </li>
           </ul>
         </div>
