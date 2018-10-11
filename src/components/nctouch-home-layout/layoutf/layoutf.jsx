@@ -5,7 +5,7 @@ import { Flex} from 'antd-mobile';
 export default class Layoutf extends Component{
   render(){
     return (
-        <Flex className='flex-container-home1'>
+        <Flex className='flex-container-home14'>
           {
             this.props.layoutf.map((item,index)=>{
               return (

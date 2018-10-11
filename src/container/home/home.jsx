@@ -1,8 +1,5 @@
 import React,{Component} from 'react'
-import { WingBlank ,WhiteSpace,ListView} from 'antd-mobile';
 import BScroll from 'better-scroll'
-
-
 import Banner from '../../components/banner/banner'
 import NctouchNavHome from '../../components/nctouch-nav-home/nctouch-nav-home'
 import Layoutc from '../../components/nctouch-home-layout/layoutc/layoutc'
@@ -20,6 +17,9 @@ export default class Home extends Component{
     layoute:[],
     layoutf:[],
     layoutg:[],
+    layouth1:[],
+    layouth2:[],
+    layouth3:[],
   }
   componentWillMount(){
     this.$http.get('http://www.51mkf.com/mobile/index.php?act=index').then(res=>{
@@ -34,6 +34,9 @@ export default class Home extends Component{
           layoute:result.datas[5]['home5']['item'],
           layoutf:result.datas[9]['home5']['item'],
           layoutg:result.datas[10]['home3']['item'],
+          layouth1:result.datas[13]['home5']['item'],
+          layouth2:result.datas[14]['home5']['item'],
+          layouth3:result.datas[15]['home5']['item'],
         })
       }
     })
@@ -107,6 +110,10 @@ export default class Home extends Component{
                   <img src="http://www.51mkf.com/data/upload/mobile/special/s0/s0_05830013804286036.png" alt=""/>
                 </a>
               </div>
+            </li>
+            <li>
+              <img className='layout-f' src="http://www.51mkf.com/data/upload/mobile/special/s0/s0_05872427367680592.jpg" alt=""/>
+
             </li>
           </ul>
         </div>

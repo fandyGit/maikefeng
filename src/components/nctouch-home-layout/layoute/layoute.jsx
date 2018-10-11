@@ -5,7 +5,7 @@ import { Flex, WhiteSpace} from 'antd-mobile';
 export default class Layoutc extends Component{
   render(){
     return (
-        <Flex className='flex-container-home1'>
+        <Flex className='flex-container-home14'>
           {
             this.props.layoute.map((item,index)=>{
               return (

@@ -1,5 +1,5 @@
 import React,{Component} from 'react'
-import { Flex, WhiteSpace ,WingBlank} from 'antd-mobile';
+import { Flex, WhiteSpace} from 'antd-mobile';
 
 // import './nctouch-nav-home.sass'
 
