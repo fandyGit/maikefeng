@@ -7,6 +7,7 @@ import Layoute from '../../components/nctouch-home-layout/layoute/layoute'
 import Layoutf from '../../components/nctouch-home-layout/layoutf/layoutf'
 import Layoutg from '../../components/nctouch-home-layout/layoutg/layoutg'
 import Layouth from '../../components/nctouch-home-layout/layouth/layouth'
+import Layouti from '../../components/nctouch-home-layout/layouti/layouti'
 import './home.sass'
 
 export default class Home extends Component{
@@ -21,11 +22,11 @@ export default class Home extends Component{
     layouth1:[],
     layouth2:[],
     layouth3:[],
+    layouti:[],
   }
   componentWillMount(){
     this.$http.get('http://www.51mkf.com/mobile/index.php?act=index').then(res=>{
       const result=res.data;
-      console.log(result)
       if(result.code===200){
         this.setState({
           homeData:result.datas,
@@ -38,6 +39,7 @@ export default class Home extends Component{
           layouth1:result.datas[13]['home5']['item'],
           layouth2:result.datas[14]['home5']['item'],
           layouth3:result.datas[15]['home5']['item'],
+          layouti:result.datas[18]['goods']['item'],
         })
       }
     })
@@ -49,8 +51,8 @@ export default class Home extends Component{
     })
   }
   render(){
-    const {banners,layoutc,layoutd,
-      layoute,layoutf,layoutg,layouth1,layouth2,layouth3}=this.state;
+    const {banners,layoutc,layoutd,layoute,layoutf,layoutg,layouth1,
+      layouth2,layouth3,layouti}=this.state;
     return (
       <div>
         <div className='wrapper'>
@@ -117,6 +119,14 @@ export default class Home extends Component{
              {/*公司logo品牌墙*/}
               <Layouth layouth1={layouth1} layouth2={layouth2} layouth3={layouth3}/>
             </li>
+            <li>
+              <a style={{display:'block',height:'125px'}} href="http://www.51mkf.com/wap/tmpl/product_detail.html?goods_id=119856">
+                <img style={{display:'block',height:'125px'}} className='layout-f' src="http://www.51mkf.com/data/upload/mobile/special/s0/s0_05893733429399139.png" alt=""/>
+              </a>
+              <img style={{display:'block',height:'43px'}} className='layout-f' src="http://www.51mkf.com/data/upload/mobile/special/s0/s0_05506778612994991.png" alt=""/>
+              <Layouti layouti={layouti}></Layouti>
+            </li>
+
           </ul>
         </div>
       </div>

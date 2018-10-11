@@ -13,7 +13,7 @@ export default class Layouth extends Component{
           {
             this.props.layouth1.map((item,index)=>{
               return (
-                <img className='pic' src={item.image} alt={item.data}/>
+                <img key={index} className='pic' src={item.image} alt={item.data}/>
               )
             })
           }
@@ -25,7 +25,7 @@ export default class Layouth extends Component{
           {
             this.props.layouth2.map((item,index)=>{
               return (
-                <img className='pic' src={item.image} alt={item.data}/>
+                <img key={index} className='pic' src={item.image} alt={item.data}/>
               )
             })
           }
@@ -37,7 +37,7 @@ export default class Layouth extends Component{
           {
             this.props.layouth3.map((item,index)=>{
               return (
-                <img className='pic' src={item.image} alt={item.data}/>
+                <img key={index} className='pic' src={item.image} alt={item.data}/>
               )
             })
           }
