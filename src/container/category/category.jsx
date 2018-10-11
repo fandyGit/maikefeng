@@ -26,28 +26,52 @@ export default class Category extends Component{
           <div className='menu-wrapper' style={{height:'400px'}}>
             <ul>
               <li>
-                <NavLink to='/category/mcommunication'>手机通讯</NavLink >
+                <NavLink to='/category/mcommunication'>
+                  <i className='iconfont icon-shouji'></i>
+                  手机通讯
+                </NavLink >
               </li>
               <li>
-                <NavLink to='/category/coffice'>电脑办公</NavLink >
+                <NavLink to='/category/coffice'>
+                  <i className='iconfont icon-diannao'></i>
+                  电脑办公
+                </NavLink >
               </li>
               <li>
-                <NavLink to='/category/ielectrical'>智能家电</NavLink >
+                <NavLink to='/category/ielectrical'>
+                  <i className='iconfont icon-icon_zhinengjiadian'></i>
+                  智能家电
+                </NavLink >
               </li>
               <li>
-                <NavLink to='/category/wmarkup'>洗护美妆</NavLink >
+                <NavLink to='/category/wmarkup'>
+                  <i className='iconfont icon-xihumeizhuang'></i>
+                  洗护美妆
+                </NavLink >
               </li>
               <li>
-                <NavLink to='/category/gmerchandish'>日用百货</NavLink >
+                <NavLink to='/category/gmerchandish'>
+                  <i className='iconfont icon-riyongbaihuo'></i>
+                  日用百货
+                </NavLink >
               </li>
               <li>
-                <NavLink to='/category/caccessories'>汽车用品</NavLink >
+                <NavLink to='/category/caccessories'>
+                  <i className='iconfont icon-cars'></i>
+                  汽车用品
+                </NavLink >
               </li>
               <li>
-                <NavLink to='/category/bproducts'>母婴用品</NavLink >
+                <NavLink to='/category/bproducts'>
+                  <i className='iconfont icon-babies'></i>
+                  母婴用品
+                </NavLink >
               </li>
               <li>
-                <NavLink to='/category/fbeverage'>食品酒水</NavLink >
+                <NavLink to='/category/fbeverage'>
+                  <i className='iconfont icon-jiushui'></i>
+                  食品酒水
+                </NavLink >
               </li>
             </ul>
           </div>
