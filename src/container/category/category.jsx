@@ -69,7 +69,7 @@ export default class Category extends Component{
             </ul>
           </div>
           <div className='electro-wrapper'>
-            <ul className='content' style={{height:'1500px'}}>
+            <ul className='content'>
               <li>
                   <Route path='/category/childcategory/:id'  component={Childcategory}></Route>
               </li>

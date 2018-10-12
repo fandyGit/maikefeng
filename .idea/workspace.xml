@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12bfca77-9243-4f3e-9ef0-6fc495a1bc20" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/src/container/category/category.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/container/category/category.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/container/category/category.sass" beforeDir="false" afterPath="$PROJECT_DIR$/src/container/category/category.sass" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/container/category/childcategory/childcategory.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/container/category/childcategory/childcategory.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/遇到的问题.md" beforeDir="false" afterPath="$PROJECT_DIR$/遇到的问题.md" afterDir="false" />
     </list>
@@ -17,11 +19,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="childcategory.jsx" pinned="false" current-in-tab="true">
+      <file leaf-file-name="childcategory.jsx" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/container/category/childcategory/childcategory.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="28" column="41" lean-forward="true" selection-start-line="28" selection-start-column="41" selection-end-line="28" selection-end-column="41" />
+            <state relative-caret-position="131">
+              <caret line="47" column="91" selection-start-line="47" selection-start-column="91" selection-end-line="47" selection-end-column="91" />
               <folding>
                 <element signature="e#0#37#0" expanded="true" />
               </folding>
@@ -73,11 +75,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="category.sass" pinned="false" current-in-tab="false">
+      <file leaf-file-name="category.sass" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/container/category/category.sass">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
-              <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+            <state relative-caret-position="338">
+              <caret line="19" column="12" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -97,8 +99,8 @@
       <file leaf-file-name="category.jsx" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/container/category/category.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1716">
-              <caret line="73" selection-start-line="73" selection-end-line="73" />
+            <state relative-caret-position="245">
+              <caret line="71" column="35" selection-start-line="71" selection-start-column="35" selection-end-line="71" selection-end-column="35" />
               <folding>
                 <element signature="e#0#37#0" expanded="true" />
               </folding>
@@ -182,13 +184,13 @@
         <option value="$PROJECT_DIR$/src/container/category/bproducts/bproducts.jsx" />
         <option value="$PROJECT_DIR$/src/container/category/fbeverage/fbeverage.jsx" />
         <option value="$PROJECT_DIR$/src/container/category/mcommunication/mcommunication.jsx" />
-        <option value="$PROJECT_DIR$/src/container/category/category.sass" />
         <option value="$PROJECT_DIR$/src/container/app/App.js" />
         <option value="$PROJECT_DIR$/src/components/navfooter/navfooter.jsx" />
-        <option value="$PROJECT_DIR$/src/container/category/category.jsx" />
         <option value="$PROJECT_DIR$/src/api/index.js" />
         <option value="$PROJECT_DIR$/遇到的问题.md" />
+        <option value="$PROJECT_DIR$/src/container/category/category.jsx" />
         <option value="$PROJECT_DIR$/src/container/category/childcategory/childcategory.jsx" />
+        <option value="$PROJECT_DIR$/src/container/category/category.sass" />
       </list>
     </option>
   </component>
@@ -301,12 +303,12 @@
       <workItem from="1539130100141" duration="30592000" />
       <workItem from="1539216881543" duration="35255000" />
       <workItem from="1539268510646" duration="861000" />
-      <workItem from="1539303209549" duration="6685000" />
+      <workItem from="1539303209549" duration="17687000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="121943000" />
+    <option name="totallyTimeSpent" value="132945000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1378" height="744" extended-state="0" />
@@ -588,23 +590,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/container/category/category.sass">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/container/category/category.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1716">
-          <caret line="73" selection-start-line="73" selection-end-line="73" />
-          <folding>
-            <element signature="e#0#37#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/api/ajax.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -644,20 +629,37 @@
     <entry file="file://$PROJECT_DIR$/遇到的问题.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-103">
-            <caret line="4" column="10" lean-forward="true" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+          <first_editor relative-caret-position="365">
+            <caret line="22" column="26" lean-forward="true" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/container/category/childcategory/childcategory.jsx">
+    <entry file="file://$PROJECT_DIR$/src/container/category/category.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="28" column="41" lean-forward="true" selection-start-line="28" selection-start-column="41" selection-end-line="28" selection-end-column="41" />
+        <state relative-caret-position="245">
+          <caret line="71" column="35" selection-start-line="71" selection-start-column="35" selection-end-line="71" selection-end-column="35" />
           <folding>
             <element signature="e#0#37#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/container/category/childcategory/childcategory.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="47" column="91" selection-start-line="47" selection-start-column="91" selection-end-line="47" selection-end-column="91" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/container/category/category.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="19" column="12" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
         </state>
       </provider>
     </entry>
