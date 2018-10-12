@@ -151,22 +151,7 @@ class Childcategory extends Component{
                           </div>
                         )}
                         columnNum={3}/>
-
-                  {/* {
-                  item.child.map(function(item1,index1){
-                    return (
-                      <div>
-                        <img src={imgs[item1.gc_id]} alt=""/>
-                        <p>{item1.gc_name}</p>
-                      </div>
-                    )
-                  })
-                }*/}
-
                 </div>
-
-
-
               )
             })
           }

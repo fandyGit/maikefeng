@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12bfca77-9243-4f3e-9ef0-6fc495a1bc20" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/container/category/bproducts/bproducts.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/container/category/caccessories/caccessories.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/container/category/category.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/container/category/category.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/container/category/category.sass" beforeDir="false" afterPath="$PROJECT_DIR$/src/container/category/category.sass" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/container/category/childcategory/childcategory.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/container/category/childcategory/childcategory.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/container/category/coffice/coffice.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/container/category/fbeverage/fbeverage.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/container/category/gmerchandish/gmerchandish.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/container/category/ielectrical/ielectrical.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/container/category/wmarkup/wmarkup.jsx" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -29,13 +19,15 @@
       <file leaf-file-name="childcategory.jsx" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/container/category/childcategory/childcategory.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="295">
-              <caret line="121" column="64" selection-start-line="121" selection-start-column="64" selection-end-line="121" selection-end-column="64" />
+            <state relative-caret-position="-15">
+              <caret line="141" column="18" selection-start-line="141" selection-start-column="18" selection-end-line="141" selection-end-column="18" />
               <folding>
                 <element signature="e#0#37#0" expanded="true" />
                 <element signature="e#233#2292#0" />
                 <element signature="n#!!block;n#componentWillMount#0;n#Childcategory#0" />
                 <element signature="n#!!block;n#componentWillReceiveProps#0;n#Childcategory#0" />
+                <element signature="e#2833#3462#0" />
+                <element signature="e#4067#4767#0" />
               </folding>
             </state>
           </provider>
@@ -94,10 +86,12 @@
       <find>hidden</find>
       <find>renderContent</find>
       <find>mcommunication</find>
+      <find>id:</find>
     </findStrings>
     <replaceStrings>
       <replace>##</replace>
       <replace>childcategory</replace>
+      <replace>gc_id:</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -287,12 +281,12 @@
       <workItem from="1539130100141" duration="30592000" />
       <workItem from="1539216881543" duration="35255000" />
       <workItem from="1539268510646" duration="861000" />
-      <workItem from="1539303209549" duration="21865000" />
+      <workItem from="1539303209549" duration="22647000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="137123000" />
+    <option name="totallyTimeSpent" value="137905000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1378" height="744" extended-state="0" />
@@ -640,13 +634,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/container/category/childcategory/childcategory.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="121" column="64" selection-start-line="121" selection-start-column="64" selection-end-line="121" selection-end-column="64" />
+        <state relative-caret-position="-15">
+          <caret line="141" column="18" selection-start-line="141" selection-start-column="18" selection-end-line="141" selection-end-column="18" />
           <folding>
             <element signature="e#0#37#0" expanded="true" />
             <element signature="e#233#2292#0" />
             <element signature="n#!!block;n#componentWillMount#0;n#Childcategory#0" />
             <element signature="n#!!block;n#componentWillReceiveProps#0;n#Childcategory#0" />
+            <element signature="e#2833#3462#0" />
+            <element signature="e#4067#4767#0" />
           </folding>
         </state>
       </provider>
