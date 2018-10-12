@@ -19,49 +19,49 @@ export default class Category extends Component{
           <div className='menu-wrapper' style={{height:'400px'}}>
             <ul>
               <li>
-                <NavLink to='/category/mcommunication/11'>
+                <NavLink to='/category/childcategory/11'>
                   <i className='iconfont icon-shouji'></i>
                   手机通讯
                 </NavLink >
               </li>
               <li>
-                <NavLink to='/category/mcommunication/1230'>
+                <NavLink to='/category/childcategory/1230'>
                   <i className='iconfont icon-diannao'></i>
                   电脑办公
                 </NavLink >
               </li>
               <li>
-                <NavLink to='/category/mcommunication/308'>
+                <NavLink to='/category/childcategory/308'>
                   <i className='iconfont icon-icon_zhinengjiadian'></i>
                   智能家电
                 </NavLink >
               </li>
               <li>
-                <NavLink to='/category/mcommunication/1184'>
+                <NavLink to='/category/childcategory/1184'>
                   <i className='iconfont icon-xihumeizhuang'></i>
                   洗护美妆
                 </NavLink >
               </li>
               <li>
-                <NavLink to='/category/mcommunication/1197'>
+                <NavLink to='/category/childcategory/1197'>
                   <i className='iconfont icon-riyongbaihuo'></i>
                   日用百货
                 </NavLink >
               </li>
               <li>
-                <NavLink to='/category/mcommunication/1255'>
+                <NavLink to='/category/childcategory/1255'>
                   <i className='iconfont icon-cars'></i>
                   汽车用品
                 </NavLink >
               </li>
               <li>
-                <NavLink to='/category/mcommunication/1256'>
+                <NavLink to='/category/childcategory/1256'>
                   <i className='iconfont icon-babies'></i>
                   母婴用品
                 </NavLink >
               </li>
               <li>
-                <NavLink to='/category/mcommunication/1185'>
+                <NavLink to='/category/childcategory/1185'>
                   <i className='iconfont icon-jiushui'></i>
                   食品酒水
                 </NavLink >
@@ -71,7 +71,7 @@ export default class Category extends Component{
           <div className='electro-wrapper'>
             <ul className='content' style={{height:'1500px'}}>
               <li>
-                  <Route path='/category/mcommunication/:id'  component={Childcategory}></Route>
+                  <Route path='/category/childcategory/:id'  component={Childcategory}></Route>
               </li>
             </ul>
 
