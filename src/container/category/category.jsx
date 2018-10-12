@@ -1,5 +1,5 @@
 import React,{Component} from 'react'
-import {NavLink,Route,Switch} from 'react-router-dom'
+import {NavLink,Route,Switch,Redirect} from 'react-router-dom'
 import BScroll from 'better-scroll'
 
 import CategoryHeader from '../../components/category-header/category-header'
@@ -21,7 +21,7 @@ export default class Category extends Component{
               <li>
                 <NavLink to='/category/childcategory/11'>
                   <i className='iconfont icon-shouji'></i>
-                  手机通讯
+                  <span>手机通讯</span>
                 </NavLink >
               </li>
               <li>
@@ -71,7 +71,10 @@ export default class Category extends Component{
           <div className='electro-wrapper'>
             <ul className='content'>
               <li>
-                  <Route path='/category/childcategory/:id'  component={Childcategory}></Route>
+                  <Switch>
+                    <Route path='/category/childcategory/:id'  component={Childcategory}></Route>
+                    <Redirect to='/category/childcategory/11'></Redirect>
+                  </Switch>
               </li>
             </ul>
 
