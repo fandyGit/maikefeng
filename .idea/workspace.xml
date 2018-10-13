@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12bfca77-9243-4f3e-9ef0-6fc495a1bc20" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/find-header/find-header.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/container/find/childfind/childfind.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/container/find/find.sass" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/迈克风商城路由列表.xmind" beforeDir="false" afterPath="$PROJECT_DIR$/doc/迈克风商城路由列表.xmind" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/api/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/container/category/childcategory/childcategory.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/container/category/childcategory/childcategory.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/container/find/find.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/container/find/find.jsx" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -21,8 +26,8 @@
       <file leaf-file-name="find.jsx" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/container/find/find.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
-              <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+            <state relative-caret-position="172">
+              <caret line="16" column="46" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="46" />
               <folding>
                 <element signature="e#0#37#0" expanded="true" />
               </folding>
@@ -30,11 +35,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="find-header.jsx" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/components/find-header/find-header.jsx">
+      <file leaf-file-name="childfind.jsx" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/container/find/childfind/childfind.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="173">
-              <caret line="14" column="61" selection-start-line="14" selection-start-column="61" selection-end-line="14" selection-end-column="61" />
+            <state relative-caret-position="225">
+              <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+              <folding>
+                <element signature="e#0#37#0" expanded="true" />
+                <element signature="e#683#2807#0" />
+                <element signature="e#2881#3483#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="find.sass" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/container/find/find.sass">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="598">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
             </state>
           </provider>
         </entry>
@@ -60,11 +79,17 @@
       <find>renderContent</find>
       <find>mcommunication</find>
       <find>id:</find>
+      <find>/11</find>
+      <find>icon-shouji</find>
+      <find>Childcategory</find>
+      <find>ChildCategory</find>
     </findStrings>
     <replaceStrings>
       <replace>##</replace>
       <replace>childcategory</replace>
       <replace>gc_id:</replace>
+      <replace>icon-shoucang</replace>
+      <replace>Childcategory</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -73,8 +98,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/后台文档接口.md" />
-        <option value="$PROJECT_DIR$/src/App.js" />
         <option value="$PROJECT_DIR$/src/container/cart/cart.jsx" />
         <option value="$PROJECT_DIR$/src/container/mine/mine.jsx" />
         <option value="$PROJECT_DIR$/src/container/app/app.sass" />
@@ -99,7 +122,6 @@
         <option value="$PROJECT_DIR$/src/components/nctouch-home-layout/layoute/layoute.jsx" />
         <option value="$PROJECT_DIR$/src/components/nctouch-home-layout/layoutf/layoutf.jsx" />
         <option value="$PROJECT_DIR$/src/components/nctouch-home-layout/layoutg/layoutg.jsx" />
-        <option value="$PROJECT_DIR$/public/index.html" />
         <option value="$PROJECT_DIR$/src/components/navheader/navheader.jsx" />
         <option value="$PROJECT_DIR$/项目流程.md" />
         <option value="$PROJECT_DIR$/src/assets/sass/index.sass" />
@@ -115,15 +137,18 @@
         <option value="$PROJECT_DIR$/src/container/category/mcommunication/mcommunication.jsx" />
         <option value="$PROJECT_DIR$/src/container/app/App.js" />
         <option value="$PROJECT_DIR$/src/components/navfooter/navfooter.jsx" />
-        <option value="$PROJECT_DIR$/src/api/index.js" />
         <option value="$PROJECT_DIR$/遇到的问题.md" />
         <option value="$PROJECT_DIR$/src/container/category/category.sass" />
-        <option value="$PROJECT_DIR$/src/container/category/category.jsx" />
-        <option value="$PROJECT_DIR$/src/container/category/childcategory/childcategory.jsx" />
         <option value="$PROJECT_DIR$/src/components/category-header/category-header.jsx" />
         <option value="$PROJECT_DIR$/src/components/find-header/category-header.jsx" />
-        <option value="$PROJECT_DIR$/src/container/find/find.jsx" />
         <option value="$PROJECT_DIR$/src/components/find-header/find-header.jsx" />
+        <option value="$PROJECT_DIR$/src/container/find/find.sass" />
+        <option value="$PROJECT_DIR$/public/index.html" />
+        <option value="$PROJECT_DIR$/src/api/index.js" />
+        <option value="$PROJECT_DIR$/src/container/category/childcategory/childcategory.jsx" />
+        <option value="$PROJECT_DIR$/src/container/category/category.jsx" />
+        <option value="$PROJECT_DIR$/src/container/find/find.jsx" />
+        <option value="$PROJECT_DIR$/src/container/find/childfind/childfind.jsx" />
       </list>
     </option>
   </component>
@@ -170,14 +195,13 @@
               <item name="maikefeng" type="b2602c69:ProjectViewProjectNode" />
               <item name="maikefeng" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="maikefeng" type="b2602c69:ProjectViewProjectNode" />
               <item name="maikefeng" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="find-header" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="maikefeng" type="b2602c69:ProjectViewProjectNode" />
@@ -191,6 +215,21 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="container" type="462c0819:PsiDirectoryNode" />
               <item name="category" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="maikefeng" type="b2602c69:ProjectViewProjectNode" />
+              <item name="maikefeng" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="container" type="462c0819:PsiDirectoryNode" />
+              <item name="category" type="462c0819:PsiDirectoryNode" />
+              <item name="childcategory" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="maikefeng" type="b2602c69:ProjectViewProjectNode" />
+              <item name="maikefeng" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="container" type="462c0819:PsiDirectoryNode" />
+              <item name="find" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -218,6 +257,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="I:\workspace\maikefeng\src\container\find\childfind" />
       <recent name="I:\workspace\maikefeng\src\components\nctouch-home-layout\layoutc" />
       <recent name="I:\workspace\maikefeng\src\assets\sass" />
       <recent name="I:\workspace\maikefeng\src\container\app" />
@@ -268,12 +308,12 @@
       <workItem from="1539216881543" duration="35255000" />
       <workItem from="1539268510646" duration="861000" />
       <workItem from="1539303209549" duration="24768000" />
-      <workItem from="1539390245441" duration="636000" />
+      <workItem from="1539390245441" duration="5645000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="140662000" />
+    <option name="totallyTimeSpent" value="145671000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1378" height="744" extended-state="0" />
@@ -288,7 +328,7 @@
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Mongo Explorer" order="3" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.2359736" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.08415841" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -308,16 +348,10 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="6" />
+      <option name="time" value="7" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/components/navfooter/images/cart.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/manifest.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -424,13 +458,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="9" column="78" selection-start-line="9" selection-start-column="78" selection-end-line="9" selection-end-column="78" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/项目流程.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -503,6 +530,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="260">
           <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -510,6 +540,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
           <caret line="37" column="3" lean-forward="true" selection-start-line="37" selection-start-column="3" selection-end-line="37" selection-end-column="3" />
+          <folding>
+            <element signature="e#1403#2548#0" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -523,38 +556,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/api/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="6" column="26" lean-forward="true" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/container/category/category.sass">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/container/category/category_bac.jsx" />
-    <entry file="file://$PROJECT_DIR$/src/container/category/childcategory/childcategory.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="141" column="18" selection-start-line="141" selection-start-column="18" selection-end-line="141" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/container/category/category.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1768">
-          <caret line="75" column="60" selection-start-line="75" selection-start-column="34" selection-end-line="75" selection-end-column="60" />
-          <folding>
-            <element signature="e#0#37#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/category-header/category-header.jsx">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="101">
@@ -562,20 +564,77 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/container/find/find.jsx">
+    <entry file="file://$PROJECT_DIR$/src/components/find-header/find-header.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+        <state relative-caret-position="128">
+          <caret line="14" column="61" selection-start-line="14" selection-start-column="61" selection-end-line="14" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/container/category/category.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="11" column="31" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="9" column="78" selection-start-line="9" selection-start-column="78" selection-end-line="9" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/api/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="14" column="20" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/container/category/childcategory/childcategory.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="163" column="39" selection-start-line="163" selection-start-column="26" selection-end-line="163" selection-end-column="39" />
           <folding>
             <element signature="e#0#37#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/find-header/find-header.jsx">
+    <entry file="file://$PROJECT_DIR$/src/container/category/category.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="14" column="61" selection-start-line="14" selection-start-column="61" selection-end-line="14" selection-end-column="61" />
+        <state relative-caret-position="130">
+          <caret line="5" column="30" lean-forward="true" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/container/find/find.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/container/find/find.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="16" column="46" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="46" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/container/find/childfind/childfind.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+            <element signature="e#683#2807#0" />
+            <element signature="e#2881#3483#0" />
+          </folding>
         </state>
       </provider>
     </entry>

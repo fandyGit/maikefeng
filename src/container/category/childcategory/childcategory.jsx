@@ -94,10 +94,10 @@ class Childcategory extends Component{
   componentWillMount(){
     const id=this.props.match.params.id;
     reqCategory(id).then(res=>{
-     this.setState({
-       imgs:res.datas['img'],
-       class_list:res.datas['class_list'],
-     })
+      this.setState({
+        imgs:res.datas['img'],
+        class_list:res.datas['class_list'],
+      })
     });
   }
   componentWillReceiveProps(nextProps){
