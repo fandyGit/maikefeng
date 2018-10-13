@@ -23,6 +23,12 @@ export default class Mine extends Component{
       {id:3,title:'退款',path:'/tuikuan',icon:'iconfont icon-tuihuo'},
     ],
   }
+  handleLogin=()=>{
+    this.props.history.replace('/login')
+  }
+  handleRegister=()=>{
+    this.props.history.replace('/register')
+  }
   render(){
     const {mineNav,mineCenter}=this.state;
     return (
@@ -43,7 +49,7 @@ export default class Mine extends Component{
               ))
             }
           </TabBar>
-          <div className='login-logo'>
+          <div className='login-logo' onClick={this.handleLogin}>
               <i className='iconfont icon-denglu'></i>
               <span className='title'>点击登录</span>
           </div>
@@ -82,10 +88,10 @@ export default class Mine extends Component{
             </Item>
             <Item>
               <Flex>
-                <Flex.Item style={{textAlign:'center'}}>
+                <Flex.Item style={{textAlign:'center'}} onClick={this.handleLogin}>
                   <span>登录</span>
                 </Flex.Item>
-                <Flex.Item style={{textAlign:'center'}}>
+                <Flex.Item style={{textAlign:'center'}} onClick={this.handleRegister}>
                   <span>注册</span>
                 </Flex.Item>
                 <Flex.Item style={{textAlign:'center'}}>
@@ -97,55 +103,7 @@ export default class Mine extends Component{
               </Flex>
             </Item>
           </List>
-         {/* <List renderHeader={() => 'Customized Right Side（Empty Content / Text / Image）'} className="my-list">
-            <Item>Title</Item>
-            <Item arrow="horizontal" onClick={() => {}}>Title</Item>
-            <Item extra="extra content" arrow="horizontal" onClick={() => {}}>Title</Item>
-            <Item extra="10:30" align="top" thumb="https://zos.alipayobjects.com/rmsportal/dNuvNrtqUztHCwM.png" multipleLine>
-              Title <Brief>subtitle</Brief>
-            </Item>
-          </List>
-          <List renderHeader={() => 'Align Vertical Center'} className="my-list">
-            <Item multipleLine extra="extra content">
-              Title <Brief>subtitle</Brief>
-            </Item>
-          </List>
-          <List renderHeader={() => 'Icon in the left'}>
-            <Item
-              thumb="https://zos.alipayobjects.com/rmsportal/dNuvNrtqUztHCwM.png"
-              arrow="horizontal"
-              onClick={() => {}}
-            >My wallet</Item>
-            <Item
-              thumb="https://zos.alipayobjects.com/rmsportal/UmbJMbWOejVOpxe.png"
-              onClick={() => {}}
-              arrow="horizontal"
-            >
-              My Cost Ratio
-            </Item>
-          </List>
-          <List renderHeader={() => 'Text Wrapping'} className="my-list">
-            <Item data-seed="logId">Single line，long text will be hidden with ellipsis；</Item>
-            <Item wrap>Multiple line，long text will wrap；Long Text Long Text Long Text Long Text Long Text Long Text</Item>
-            <Item extra="extra content" multipleLine align="top" wrap>
-              Multiple line and long text will wrap. Long Text Long Text Long Text
-            </Item>
-            <Item extra="no arrow" arrow="empty" className="spe" wrap>
-              In rare cases, the text of right side will wrap in the single line with long text. long text long text long text
-            </Item>
-          </List>
-          <List renderHeader={() => 'Other'} className="my-list">
-            <Item disabled={this.state.disabled} extra="" onClick={() => { console.log('click', this.state.disabled); this.setState({ disabled: true }); }}>Click to disable</Item>
-            <Item>
-              <select defaultValue="1">
-                <option value="1">Html select element</option>
-                <option value="2" disabled>Unable to select</option>
-                <option value="3">option 3</option>
-              </select>
-            </Item>
-          </List>*/}
         </section>
-
       </div>
     )
   }

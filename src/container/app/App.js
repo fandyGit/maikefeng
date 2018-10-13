@@ -1,28 +1,48 @@
 import React, { Component } from 'react';
-import {Switch,Route,Redirect} from 'react-router-dom'
+import {Switch,Route,Redirect,withRouter} from 'react-router-dom'
 
 import Home from '../home/home'
 import Category from '../category/category'
 import Find from '../find/find'
 import Cart from '../cart/cart'
 import Mine from '../mine/mine'
+import Login from '../login/login'
+import Register from '../register/register'
 import NavFooter from '../../components/navfooter/navfooter'
 import '../../assets/sass/index.sass'
 class App extends Component {
   render() {
     let { routes } = this.props
-    return (
-      <div className='app'>
-        <Switch>
-          { routes.map(({ id, path, component, exact }) => (
-            <Route key = {id} path = {path} component = {component}/>
-          )) }
-          <Redirect to='/home'></Redirect>
-        </Switch>
+    let path=this.props.location.pathname;
+    if(path==='/login'||path==='/register'){
+      return (
+        <div className='app'>
+          <Switch>
+            { routes.map(({ id, path, component, exact }) => (
+              <Route key = {id} path = {path} component = {component}/>
+            )) }
+            <Route path='/login' component={Login}></Route>
+            <Route path='/register' component={Register}></Route>
+            <Redirect to='/home'></Redirect>
+          </Switch>
+        </div>
+      );
+    }else{
+      return (
+        <div className='app'>
+          <Switch>
+            { routes.map(({ id, path, component, exact }) => (
+              <Route key = {id} path = {path} component = {component}/>
+            )) }
+            <Route path='/login' component={Login}></Route>
+            <Route path='/register' component={Register}></Route>
+            <Redirect to='/home'></Redirect>
+          </Switch>
+          <NavFooter routes={routes}></NavFooter>
+        </div>
+      );
+    }
 
-        <NavFooter routes={routes}></NavFooter>
-      </div>
-    );
   }
 }
 App.defaultProps = {
@@ -66,4 +86,4 @@ App.defaultProps = {
   ]
 }
 
-export default App;
+export default withRouter(App);

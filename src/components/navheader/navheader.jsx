@@ -1,8 +1,13 @@
 import React,{Component} from 'react'
+import {withRouter} from 'react-router-dom'
 
 import { NavBar, Icon ,InputItem,SearchBar} from 'antd-mobile';
 
-export default class NavHeader extends Component{
+class NavHeader extends Component{
+
+  handleLogin=()=>{
+    this.props.history.replace('/login');
+  }
   render(){
     return (
       <div>
@@ -10,7 +15,7 @@ export default class NavHeader extends Component{
           mode="dark"
           icon={<i className='iconfont icon-saoma'></i>}
           onLeftClick={() => console.log('onLeftClick')}
-          rightContent={<i className='iconfont icon-denglu'></i>}
+          rightContent={<i className='iconfont icon-denglu' onClick={this.handleLogin}></i>}
         >
           <SearchBar placeholder='客官,查找你的商品'/>
         </NavBar>
@@ -18,3 +23,4 @@ export default class NavHeader extends Component{
     )
   }
 }
+export default withRouter(NavHeader)
