@@ -4,7 +4,7 @@ export default class Find extends Component{
   render(){
     return (
       <div>
-          Find
+         门店列表
       </div>
     )
   }

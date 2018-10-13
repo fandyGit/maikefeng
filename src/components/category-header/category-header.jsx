@@ -9,10 +9,10 @@ class CategoryHeader extends Component{
         <NavBar
           mode="light"
           icon={<Icon type="left" />}
-          onLeftClick={() => this.props.history.goBack()}
+          onLeftClick={() => this.props.history.replace('/home')}
           rightContent={<Icon key="1" type="ellipsis" />}
         >
-          <SearchBar placeholder='客官,查找你的商品'/>
+          <SearchBar placeholder='客官,请查找你的商品'/>
         </NavBar>
       </div>
     )
