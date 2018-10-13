@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12bfca77-9243-4f3e-9ef0-6fc495a1bc20" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/container/login/login-header/login-header.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/container/login/login.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/container/register/register-header/register-header.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/container/register/register.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/navheader/images/saoma.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/navheader/navheader.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/navheader/navheader.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/container/app/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/container/app/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/container/mine/mine.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/container/mine/mine.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/container/mine/mine.sass" beforeDir="false" afterPath="$PROJECT_DIR$/src/container/mine/mine.sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/迈克风商城路由列表.xmind" beforeDir="false" afterPath="$PROJECT_DIR$/doc/迈克风商城路由列表.xmind" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -91,8 +81,8 @@
       <file leaf-file-name="mine.jsx" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/container/mine/mine.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="169">
-              <caret line="29" column="41" selection-start-line="29" selection-start-column="41" selection-end-line="29" selection-end-column="41" />
+            <state relative-caret-position="311">
+              <caret line="29" column="43" lean-forward="true" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="43" />
               <folding>
                 <element signature="e#0#37#0" expanded="true" />
                 <element signature="e#292#909#0" />
@@ -218,7 +208,6 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
-    <option name="y" value="-8" />
     <option name="width" value="1378" />
     <option name="height" value="744" />
   </component>
@@ -370,16 +359,15 @@
       <workItem from="1539216881543" duration="35255000" />
       <workItem from="1539268510646" duration="861000" />
       <workItem from="1539303209549" duration="24768000" />
-      <workItem from="1539390245441" duration="28398000" />
+      <workItem from="1539390245441" duration="28757000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="168424000" />
+    <option name="totallyTimeSpent" value="168783000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1378" height="744" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="0" width="1378" height="744" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20713201" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -390,7 +378,7 @@
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Mongo Explorer" order="3" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.30363035" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.30363035" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -725,8 +713,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/container/mine/mine.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="29" column="41" selection-start-line="29" selection-start-column="41" selection-end-line="29" selection-end-column="41" />
+        <state relative-caret-position="311">
+          <caret line="29" column="43" lean-forward="true" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="43" />
           <folding>
             <element signature="e#0#37#0" expanded="true" />
             <element signature="e#292#909#0" />
