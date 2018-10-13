@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12bfca77-9243-4f3e-9ef0-6fc495a1bc20" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/container/find/childfind/childfind.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/container/find/find.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/container/find/childfind/childfind.sass" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/迈克风商城路由列表.xmind" beforeDir="false" afterPath="$PROJECT_DIR$/doc/迈克风商城路由列表.xmind" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/api/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/api/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/container/category/childcategory/childcategory.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/container/category/childcategory/childcategory.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/container/find/childfind/childfind.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/container/find/childfind/childfind.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/container/find/find.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/container/find/find.jsx" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -26,24 +23,11 @@
       <file leaf-file-name="find.jsx" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/container/find/find.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="172">
-              <caret line="16" column="46" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="46" />
+            <state relative-caret-position="42">
+              <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
               <folding>
                 <element signature="e#0#37#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="childfind.jsx" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/container/find/childfind/childfind.jsx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-              <folding>
-                <element signature="e#0#37#0" expanded="true" />
-                <element signature="e#683#2807#0" />
-                <element signature="e#2881#3483#0" />
+                <element signature="e#264#2079#0" />
               </folding>
             </state>
           </provider>
@@ -52,8 +36,50 @@
       <file leaf-file-name="find.sass" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/container/find/find.sass">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="598">
-              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="357">
+              <caret line="22" column="20" lean-forward="true" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="childfind.jsx" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/container/find/childfind/childfind.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="301">
+              <caret line="106" selection-start-line="106" selection-end-line="106" />
+              <folding>
+                <element signature="e#0#37#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="childfind.sass" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/container/find/childfind/childfind.sass">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="26">
+              <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="196">
+              <caret line="9" column="74" selection-start-line="9" selection-start-column="74" selection-end-line="9" selection-end-column="74" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="category.jsx" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/container/category/category.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="12" selection-end-column="3" />
+              <folding>
+                <element signature="e#0#37#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -98,8 +124,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/container/cart/cart.jsx" />
-        <option value="$PROJECT_DIR$/src/container/mine/mine.jsx" />
         <option value="$PROJECT_DIR$/src/container/app/app.sass" />
         <option value="$PROJECT_DIR$/src/components/navheader/header.sass" />
         <option value="$PROJECT_DIR$/src/index.js" />
@@ -143,11 +167,13 @@
         <option value="$PROJECT_DIR$/src/components/find-header/category-header.jsx" />
         <option value="$PROJECT_DIR$/src/components/find-header/find-header.jsx" />
         <option value="$PROJECT_DIR$/src/container/find/find.sass" />
-        <option value="$PROJECT_DIR$/public/index.html" />
         <option value="$PROJECT_DIR$/src/api/index.js" />
         <option value="$PROJECT_DIR$/src/container/category/childcategory/childcategory.jsx" />
         <option value="$PROJECT_DIR$/src/container/category/category.jsx" />
         <option value="$PROJECT_DIR$/src/container/find/find.jsx" />
+        <option value="$PROJECT_DIR$/src/container/find/childfind/find.sass" />
+        <option value="$PROJECT_DIR$/src/container/find/childfind/childfind.sass" />
+        <option value="$PROJECT_DIR$/public/index.html" />
         <option value="$PROJECT_DIR$/src/container/find/childfind/childfind.jsx" />
       </list>
     </option>
@@ -168,7 +194,7 @@
       <path value="$PROJECT_DIR$/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1378" />
@@ -185,6 +211,11 @@
             <path>
               <item name="maikefeng" type="b2602c69:ProjectViewProjectNode" />
               <item name="maikefeng" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="maikefeng" type="b2602c69:ProjectViewProjectNode" />
+              <item name="maikefeng" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="maikefeng" type="b2602c69:ProjectViewProjectNode" />
@@ -230,6 +261,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="container" type="462c0819:PsiDirectoryNode" />
               <item name="find" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="maikefeng" type="b2602c69:ProjectViewProjectNode" />
+              <item name="maikefeng" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="container" type="462c0819:PsiDirectoryNode" />
+              <item name="find" type="462c0819:PsiDirectoryNode" />
+              <item name="childfind" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -308,12 +347,12 @@
       <workItem from="1539216881543" duration="35255000" />
       <workItem from="1539268510646" duration="861000" />
       <workItem from="1539303209549" duration="24768000" />
-      <workItem from="1539390245441" duration="5645000" />
+      <workItem from="1539390245441" duration="13240000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="145671000" />
+    <option name="totallyTimeSpent" value="153266000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1378" height="744" extended-state="0" />
@@ -352,21 +391,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="156">
-            <caret line="6" column="8" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="52">
@@ -578,13 +602,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="9" column="78" selection-start-line="9" selection-start-column="78" selection-end-line="9" selection-end-column="78" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/api/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
@@ -594,7 +611,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/container/category/childcategory/childcategory.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="335">
+        <state relative-caret-position="551">
           <caret line="163" column="39" selection-start-line="163" selection-start-column="26" selection-end-line="163" selection-end-column="39" />
           <folding>
             <element signature="e#0#37#0" expanded="true" />
@@ -604,36 +621,52 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/container/category/category.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="5" column="30" lean-forward="true" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/container/find/find.sass">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="598">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/container/find/find.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="16" column="46" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="46" />
+        <state relative-caret-position="260">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="12" selection-end-column="3" />
           <folding>
             <element signature="e#0#37#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/container/find/childfind/childfind.jsx">
+    <entry file="file://$PROJECT_DIR$/src/container/find/find.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        <state relative-caret-position="42">
+          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
           <folding>
             <element signature="e#0#37#0" expanded="true" />
-            <element signature="e#683#2807#0" />
-            <element signature="e#2881#3483#0" />
+            <element signature="e#264#2079#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="9" column="74" selection-start-line="9" selection-start-column="74" selection-end-line="9" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/container/find/childfind/childfind.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/container/find/find.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="22" column="20" lean-forward="true" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/container/find/childfind/childfind.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="106" selection-start-line="106" selection-end-line="106" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -6,6 +6,9 @@ import FindHeader from '../../components/find-header/find-header'
 import ChildFind from "./childfind/childfind";
 
 export default class Find extends Component{
+  componentDidMount(){
+    let scroll = new BScroll('.electro-wrapper')
+  }
   render(){
     return (
       <div>
