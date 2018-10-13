@@ -53,6 +53,7 @@ export default class Find extends Component{
               <li>
                 <Switch>
                   <Route path='/find/childfind/:aid' component={ChildFind}></Route>
+                  <Redirect to='/find/childfind/0'></Redirect>
                 </Switch>
               </li>
             </ul>

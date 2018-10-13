@@ -103,7 +103,7 @@ class ChildFind extends Component{
                               <div>
                                 <a href={`http://www.51mkf.com/wap/tmpl/chain_product.html?chain_id=${item.chain_id}`}>
                                   <i style={{color:'red',fontSize:'30px',paddingRight:'5px'}} className='iconfont icon-_mendian'></i>
-                                  <span style={{fontSize:'20px',color:'rgb(199, 5, 102)'}}>{item.chain_name}</span>
+                                  <span style={{fontSize:'18px',color:'rgb(199, 5, 102)'}}>{item.chain_name}</span>
                                 </a>
                               </div>
                             </Card.Body>
@@ -145,7 +145,7 @@ class ChildFind extends Component{
                               <div>
                                 <a href={`http://www.51mkf.com/wap/tmpl/chain_product.html?chain_id=${item.chain_id}`}>
                                   <i style={{color:'red',fontSize:'30px',paddingRight:'5px'}} className='iconfont icon-_mendian'></i>
-                                  <span style={{fontSize:'20px',color:'rgb(199, 5, 102)'}}>{item.chain_name}</span>
+                                  <span style={{fontSize:'18px',color:'rgb(199, 5, 102)'}}>{item.chain_name}</span>
                                 </a>
                               </div>
                             </Card.Body>
