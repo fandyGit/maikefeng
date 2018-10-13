@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12bfca77-9243-4f3e-9ef0-6fc495a1bc20" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/mine-header/mine-header.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/container/mine/mine.sass" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/container/mine/mine.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/container/mine/mine.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/遇到的问题.md" beforeDir="false" afterPath="$PROJECT_DIR$/遇到的问题.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/container/mine/mine.sass" beforeDir="false" afterPath="$PROJECT_DIR$/src/container/mine/mine.sass" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -24,12 +20,21 @@
       <file leaf-file-name="mine.jsx" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/container/mine/mine.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="259">
-              <caret line="36" column="26" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="26" />
+            <state relative-caret-position="654">
+              <caret line="29" column="33" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
               <folding>
                 <element signature="e#0#37#0" expanded="true" />
+                <element signature="e#551#1068#0" />
                 <element signature="e#613#1118#0" />
                 <element signature="e#812#1067#0" />
+                <element signature="e#1139#1174#0" />
+                <element signature="e#1777#4954#0" />
+                <element signature="e#1993#2429#0" />
+                <element signature="e#1639#4115#0" />
+                <element signature="e#2137#2344#0" />
+                <element signature="e#2854#3546#0" />
+                <element signature="e#3805#4079#0" />
+                <element signature="e#3826#4059#0" />
               </folding>
             </state>
           </provider>
@@ -38,8 +43,8 @@
       <file leaf-file-name="mine.sass" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/container/mine/mine.sass">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
+            <state relative-caret-position="284">
+              <caret line="42" column="16" selection-start-line="42" selection-start-column="16" selection-end-line="42" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -154,7 +159,7 @@
       <path value="$PROJECT_DIR$/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1378" />
@@ -273,12 +278,12 @@
       <workItem from="1539216881543" duration="35255000" />
       <workItem from="1539268510646" duration="861000" />
       <workItem from="1539303209549" duration="24768000" />
-      <workItem from="1539390245441" duration="21864000" />
+      <workItem from="1539390245441" duration="24482000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="161890000" />
+    <option name="totallyTimeSpent" value="164508000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1378" height="744" extended-state="0" />
@@ -588,20 +593,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/container/mine/mine.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="36" column="26" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="26" />
+        <state relative-caret-position="654">
+          <caret line="29" column="33" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
           <folding>
             <element signature="e#0#37#0" expanded="true" />
+            <element signature="e#551#1068#0" />
             <element signature="e#613#1118#0" />
             <element signature="e#812#1067#0" />
+            <element signature="e#1139#1174#0" />
+            <element signature="e#1777#4954#0" />
+            <element signature="e#1993#2429#0" />
+            <element signature="e#1639#4115#0" />
+            <element signature="e#2137#2344#0" />
+            <element signature="e#2854#3546#0" />
+            <element signature="e#3805#4079#0" />
+            <element signature="e#3826#4059#0" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/container/mine/mine.sass">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
+        <state relative-caret-position="284">
+          <caret line="42" column="16" selection-start-line="42" selection-start-column="16" selection-end-line="42" selection-end-column="16" />
         </state>
       </provider>
     </entry>
