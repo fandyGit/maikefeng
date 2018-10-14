@@ -1,24 +1,44 @@
 import React,{Component} from 'react'
-import LoginHeader from './login-header/login-header'
-import { List, InputItem, Switch, Checkbox, Button } from 'antd-mobile';
+import { List, InputItem, Switch, Checkbox, Button,Toast } from 'antd-mobile';
 import { createForm } from 'rc-form';
+import {connect} from 'react-redux'
+import {Redirect} from 'react-router-dom'
+
+
+import LoginHeader from './login-header/login-header'
+import {getLogin} from '../../redux/actions'
+
 const Item = List.Item;
 const CheckboxItem = Checkbox.CheckboxItem;
-const AgreeItem = Checkbox.AgreeItem;
 
 class Login extends Component{
   state = {
     value: 1,
-    isChecked:false
+    isChecked:false,
+    redirectTo:'',
+    msg:''
+  }
+  componentWillReceiveProps(props) {
+    const {msg}=props.user;
+    if(msg!==''){
+      Toast.loading(msg, 30, () => {
+        this.props.form.resetFields();
+      });
+
+      setTimeout(() => {
+        Toast.hide();
+      }, 3000);
+    }
   }
   onSubmit = () => {
     this.props.form.validateFields({ force: true }, (error) => {
       if (!error) {
-        //console.log(this.props.form.getFieldsValue());
         const data=this.props.form.getFieldsValue();
-        const isChecked=this.state.isChecked;
-        let loginData={...data,isChecked}
-        console.log(loginData)
+        const {isChecked,redirectTo}=this.state;
+
+        let users={...data,isChecked,redirectTo}
+        console.log(users)
+        this.props.getLogin(users);
       } else {
         alert('Validation failed');
       }
@@ -41,6 +61,10 @@ class Login extends Component{
   }
   render(){
     const { getFieldProps, getFieldError } = this.props.form;
+    const {redirectTo,msg}=this.props.user;
+    if(redirectTo){
+      return <Redirect to={redirectTo}></Redirect>
+    }
     return (
       <div>
         <LoginHeader></LoginHeader>
@@ -89,4 +113,7 @@ class Login extends Component{
   }
 }
 Login = createForm()(Login);
-export default Login;
+export default connect(
+  state=>({user:state}),
+  {getLogin}
+)(Login);

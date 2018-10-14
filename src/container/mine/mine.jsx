@@ -1,4 +1,5 @@
 import React,{Component} from 'react'
+import {connect} from 'react-redux'
 import { TabBar ,WhiteSpace ,List,Flex} from 'antd-mobile';
 
 import MineHeader from '../../components/mine-header/mine-header'
@@ -8,7 +9,7 @@ const Item = List.Item;
 const Brief = Item.Brief;
 
 
-export default class Mine extends Component{
+class Mine extends Component{
   state={
     mineNav:[
       {id:1,title:'商品收藏',path:'/shoucang',icon:'iconfont icon-shoucang'},
@@ -31,6 +32,7 @@ export default class Mine extends Component{
   }
   render(){
     const {mineNav,mineCenter}=this.state;
+    const {username}=this.props.user;
     return (
       <div>
         <MineHeader></MineHeader>
@@ -51,7 +53,7 @@ export default class Mine extends Component{
           </TabBar>
           <div className='login-logo' onClick={this.handleLogin}>
               <i className='iconfont icon-denglu'></i>
-              <span className='title'>点击登录</span>
+              <span className='title'>{username?username:'点击登录'}</span>
           </div>
         </section>
         <section className='mine-center'>
@@ -65,7 +67,7 @@ export default class Mine extends Component{
                 {
                   mineCenter.map((item,index)=>{
                     return (
-                      <Flex.Item style={{textAlign:'center'}}>
+                      <Flex.Item style={{textAlign:'center'}} key={index}>
                           <i style={{display:'block',fontSize:'20px'}} className={item.icon}></i>
                           <span>{item.title}</span>
                       </Flex.Item>
@@ -108,3 +110,7 @@ export default class Mine extends Component{
     )
   }
 }
+export default connect(
+  state=>({user:state}),
+  {}
+)(Mine)
