@@ -7,6 +7,7 @@
     height: 200px!important
     top: 45px
     background: #ed5564
+    //animation: changeColor 5s infinite
   .login-logo
     width: 80px
     height: 80px
@@ -19,6 +20,7 @@
     z-index: 100
     border-radius: 50%
     text-align: center
+    animation: move 5s
     .icon-denglu
       font-size: 40px
       padding-top: 5px
@@ -45,3 +47,13 @@
 
 
 
+@keyframes move
+  form
+    transform: rotateY(0deg)
+  to
+    transform: rotateY(1800deg)
+@keyframes changeColor
+  10%
+    background: rgba(100,100,100,.3)
+  to
+    background: rgba(240,240,240,.7)
