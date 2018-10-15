@@ -1,5 +1,6 @@
 import React,{Component} from 'react'
 import { Flex, WhiteSpace} from 'antd-mobile';
+import LazyLoad from 'react-lazy-load'
 
 export default class Layoutc extends Component{
   render(){
@@ -10,7 +11,9 @@ export default class Layoutc extends Component{
               return (
                 <Flex.Item key={index}>
                   <a href={item.data}>
-                    <img className='pic' src={item.image} alt=""/>
+                    {/*<LazyLoad height={100}>*/}
+                      <img className='pic' src={item.image} alt=""/>
+                    {/*</LazyLoad>*/}
                   </a>
                 </Flex.Item>
               )

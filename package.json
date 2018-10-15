@@ -9,6 +9,8 @@
     "rc-form": "^2.2.4",
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
+    "react-lazy-load": "^3.0.13",
+    "react-lazyload": "^2.3.0",
     "react-redux": "^5.0.7",
     "react-router-dom": "^4.3.1",
     "react-scripts": "2.0.4",

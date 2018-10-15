@@ -14,9 +14,11 @@ export default class Layouti extends Component{
             this.props.layouti.map((item,index)=>{
               return (
                 <a style={{display:'inline-block',paddingBottom:'8px',marginBottom:'5px'}} href={`http://www.51mkf.com/wap/tmpl/product_detail.html?goods_id=${item.goods_id}`} key={index}>
-                  <img className='pic' src={item.goods_image} alt=""/>
+
+                    <img className='pic' src={item.goods_image} alt=""/>
+
                   <i className='shengyuehao'  style={{margin:'10px',fontSize:'12px',color:'#333',borderBottom:1}} >{item.goods_name||item.data}</i>
-                  <i shengyuehao="shengyuehao" style={{margin:'5px',color:'red'}} >售价：￥{item.goods_price}</i>
+                  <i className="shengyuehao" style={{margin:'5px',color:'red'}} >售价：￥{item.goods_price}</i>
                 </a>
               )
             })
