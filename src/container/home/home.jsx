@@ -66,15 +66,34 @@ export default class Home extends Component{
     })
   }
   componentDidMount(){
-    let scroll = new BScroll('.wrapper',{
-      scrollY: true,
-      click: true
-    })
+    //可以滑到底部，但是
+    // 1必须等到全部加载完才可以滑动，
+    // 2切换路由回来滑动不了
+    window.onload=function(){
+      let scroll = new BScroll('.wrapper',{
+        scrollY: true,//垂直滑动
+        click: true,//可以点击
+        pullDownRefresh: true
+      })
+    }
+    //vue中vm.$nextTick
+    //切换回来可以滑动到底部
+    //1不可以滑到底部，会在某一个点卡住
+    setTimeout(()=>{
+      let scroll = new BScroll('.wrapper',{
+        scrollY: true,//垂直滑动
+        click: true,//可以点击
+        pullDownRefresh: true
+      })
+    },1000)//单独使用延时定时器的时候,延时小于12秒就会有问题
+
   }
   render(){
-    const {banners,layoutc,layoutd,layoute,layoutf,layoutg,layouth1,
+    const {
+      banners,layoutc,layoutd,layoute,layoutf,layoutg,layouth1,
       layouth2,layouth3,layouti,layouti1,layouti2,layouti3,layouti4,
-      layouti5,layouti6,layouti7,layouti8,layouti9}=this.state;
+      layouti5,layouti6,layouti7,layouti8,layouti9
+    }=this.state;
     return (
       <div>
         <NavHeader></NavHeader>

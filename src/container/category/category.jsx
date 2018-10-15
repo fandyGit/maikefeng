@@ -9,7 +9,11 @@ import './category.sass'
 
 export default class Category extends Component{
   componentDidMount(){
-    let scroll = new BScroll('.electro-wrapper')
+    let scroll = new BScroll('.electro-wrapper',{
+      scrollY: true,//垂直滑动
+      click: true,//可以点击
+      pullDownRefresh: true
+    })
   }
   render(){
     return (

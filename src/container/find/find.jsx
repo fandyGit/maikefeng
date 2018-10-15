@@ -7,7 +7,11 @@ import ChildFind from "./childfind/childfind";
 
 export default class Find extends Component{
   componentDidMount(){
-    let scroll = new BScroll('.electro-wrapper')
+    let scroll = new BScroll('.electro-wrapper',{
+      scrollY: true,//垂直滑动
+      click: true,//可以点击
+      pullDownRefresh: true
+    })
   }
   render(){
     return (
